@@ -1,0 +1,5607 @@
+[
+  {
+    "name": "MEDELLÍN",
+    "id": 5001,
+    "department_id": 5
+  },
+  {
+    "name": "ABEJORRAL",
+    "id": 5002,
+    "department_id": 5
+  },
+  {
+    "name": "ABRIAQUÍ",
+    "id": 5004,
+    "department_id": 5
+  },
+  {
+    "name": "ALEJANDRÍA",
+    "id": 5021,
+    "department_id": 5
+  },
+  {
+    "name": "AMAGÁ",
+    "id": 5030,
+    "department_id": 5
+  },
+  {
+    "name": "AMALFI",
+    "id": 5031,
+    "department_id": 5
+  },
+  {
+    "name": "ANDES",
+    "id": 5034,
+    "department_id": 5
+  },
+  {
+    "name": "ANGELÓPOLIS",
+    "id": 5036,
+    "department_id": 5
+  },
+  {
+    "name": "ANGOSTURA",
+    "id": 5038,
+    "department_id": 5
+  },
+  {
+    "name": "ANORÍ",
+    "id": 5040,
+    "department_id": 5
+  },
+  {
+    "name": "SANTA FÉ DE ANTIOQUIA",
+    "id": 5042,
+    "department_id": 5
+  },
+  {
+    "name": "ANZÁ",
+    "id": 5044,
+    "department_id": 5
+  },
+  {
+    "name": "APARTADÓ",
+    "id": 5045,
+    "department_id": 5
+  },
+  {
+    "name": "ARBOLETES",
+    "id": 5051,
+    "department_id": 5
+  },
+  {
+    "name": "ARGELIA",
+    "id": 5055,
+    "department_id": 5
+  },
+  {
+    "name": "ARMENIA",
+    "id": 5059,
+    "department_id": 5
+  },
+  {
+    "name": "BARBOSA",
+    "id": 5079,
+    "department_id": 5
+  },
+  {
+    "name": "BELMIRA",
+    "id": 5086,
+    "department_id": 5
+  },
+  {
+    "name": "BELLO",
+    "id": 5088,
+    "department_id": 5
+  },
+  {
+    "name": "BETANIA",
+    "id": 5091,
+    "department_id": 5
+  },
+  {
+    "name": "BETULIA",
+    "id": 5093,
+    "department_id": 5
+  },
+  {
+    "name": "CIUDAD BOLÍVAR",
+    "id": 5101,
+    "department_id": 5
+  },
+  {
+    "name": "BRICEÑO",
+    "id": 5107,
+    "department_id": 5
+  },
+  {
+    "name": "BURITICÁ",
+    "id": 5113,
+    "department_id": 5
+  },
+  {
+    "name": "CÁCERES",
+    "id": 5120,
+    "department_id": 5
+  },
+  {
+    "name": "CAICEDO",
+    "id": 5125,
+    "department_id": 5
+  },
+  {
+    "name": "CALDAS",
+    "id": 5129,
+    "department_id": 5
+  },
+  {
+    "name": "CAMPAMENTO",
+    "id": 5134,
+    "department_id": 5
+  },
+  {
+    "name": "CAÑASGORDAS",
+    "id": 5138,
+    "department_id": 5
+  },
+  {
+    "name": "CARACOLÍ",
+    "id": 5142,
+    "department_id": 5
+  },
+  {
+    "name": "CARAMANTA",
+    "id": 5145,
+    "department_id": 5
+  },
+  {
+    "name": "CAREPA",
+    "id": 5147,
+    "department_id": 5
+  },
+  {
+    "name": "EL CARMEN DE VIBORAL",
+    "id": 5148,
+    "department_id": 5
+  },
+  {
+    "name": "CAROLINA",
+    "id": 5150,
+    "department_id": 5
+  },
+  {
+    "name": "CAUCASIA",
+    "id": 5154,
+    "department_id": 5
+  },
+  {
+    "name": "CHIGORODÓ",
+    "id": 5172,
+    "department_id": 5
+  },
+  {
+    "name": "CISNEROS",
+    "id": 5190,
+    "department_id": 5
+  },
+  {
+    "name": "COCORNÁ",
+    "id": 5197,
+    "department_id": 5
+  },
+  {
+    "name": "CONCEPCIÓN",
+    "id": 5206,
+    "department_id": 5
+  },
+  {
+    "name": "CONCORDIA",
+    "id": 5209,
+    "department_id": 5
+  },
+  {
+    "name": "COPACABANA",
+    "id": 5212,
+    "department_id": 5
+  },
+  {
+    "name": "DABEIBA",
+    "id": 5234,
+    "department_id": 5
+  },
+  {
+    "name": "DONMATÍAS",
+    "id": 5237,
+    "department_id": 5
+  },
+  {
+    "name": "EBÉJICO",
+    "id": 5240,
+    "department_id": 5
+  },
+  {
+    "name": "EL BAGRE",
+    "id": 5250,
+    "department_id": 5
+  },
+  {
+    "name": "ENTRERRÍOS",
+    "id": 5264,
+    "department_id": 5
+  },
+  {
+    "name": "ENVIGADO",
+    "id": 5266,
+    "department_id": 5
+  },
+  {
+    "name": "FREDONIA",
+    "id": 5282,
+    "department_id": 5
+  },
+  {
+    "name": "FRONTINO",
+    "id": 5284,
+    "department_id": 5
+  },
+  {
+    "name": "GIRALDO",
+    "id": 5306,
+    "department_id": 5
+  },
+  {
+    "name": "GIRARDOTA",
+    "id": 5308,
+    "department_id": 5
+  },
+  {
+    "name": "GÓMEZ PLATA",
+    "id": 5310,
+    "department_id": 5
+  },
+  {
+    "name": "GRANADA",
+    "id": 5313,
+    "department_id": 5
+  },
+  {
+    "name": "GUADALUPE",
+    "id": 5315,
+    "department_id": 5
+  },
+  {
+    "name": "GUARNE",
+    "id": 5318,
+    "department_id": 5
+  },
+  {
+    "name": "GUATAPÉ",
+    "id": 5321,
+    "department_id": 5
+  },
+  {
+    "name": "HELICONIA",
+    "id": 5347,
+    "department_id": 5
+  },
+  {
+    "name": "HISPANIA",
+    "id": 5353,
+    "department_id": 5
+  },
+  {
+    "name": "ITAGÜÍ",
+    "id": 5360,
+    "department_id": 5
+  },
+  {
+    "name": "ITUANGO",
+    "id": 5361,
+    "department_id": 5
+  },
+  {
+    "name": "JARDÍN",
+    "id": 5364,
+    "department_id": 5
+  },
+  {
+    "name": "JERICÓ",
+    "id": 5368,
+    "department_id": 5
+  },
+  {
+    "name": "LA CEJA",
+    "id": 5376,
+    "department_id": 5
+  },
+  {
+    "name": "LA ESTRELLA",
+    "id": 5380,
+    "department_id": 5
+  },
+  {
+    "name": "LA PINTADA",
+    "id": 5390,
+    "department_id": 5
+  },
+  {
+    "name": "LA UNIÓN",
+    "id": 5400,
+    "department_id": 5
+  },
+  {
+    "name": "LIBORINA",
+    "id": 5411,
+    "department_id": 5
+  },
+  {
+    "name": "MACEO",
+    "id": 5425,
+    "department_id": 5
+  },
+  {
+    "name": "MARINILLA",
+    "id": 5440,
+    "department_id": 5
+  },
+  {
+    "name": "MONTEBELLO",
+    "id": 5467,
+    "department_id": 5
+  },
+  {
+    "name": "MURINDÓ",
+    "id": 5475,
+    "department_id": 5
+  },
+  {
+    "name": "MUTATÁ",
+    "id": 5480,
+    "department_id": 5
+  },
+  {
+    "name": "NARIÑO",
+    "id": 5483,
+    "department_id": 5
+  },
+  {
+    "name": "NECOCLÍ",
+    "id": 5490,
+    "department_id": 5
+  },
+  {
+    "name": "NECHÍ",
+    "id": 5495,
+    "department_id": 5
+  },
+  {
+    "name": "OLAYA",
+    "id": 5501,
+    "department_id": 5
+  },
+  {
+    "name": "PEÑOL",
+    "id": 5541,
+    "department_id": 5
+  },
+  {
+    "name": "PEQUE",
+    "id": 5543,
+    "department_id": 5
+  },
+  {
+    "name": "PUEBLORRICO",
+    "id": 5576,
+    "department_id": 5
+  },
+  {
+    "name": "PUERTO BERRÍO",
+    "id": 5579,
+    "department_id": 5
+  },
+  {
+    "name": "PUERTO NARE",
+    "id": 5585,
+    "department_id": 5
+  },
+  {
+    "name": "PUERTO TRIUNFO",
+    "id": 5591,
+    "department_id": 5
+  },
+  {
+    "name": "REMEDIOS",
+    "id": 5604,
+    "department_id": 5
+  },
+  {
+    "name": "RETIRO",
+    "id": 5607,
+    "department_id": 5
+  },
+  {
+    "name": "RIONEGRO",
+    "id": 5615,
+    "department_id": 5
+  },
+  {
+    "name": "SABANALARGA",
+    "id": 5628,
+    "department_id": 5
+  },
+  {
+    "name": "SABANETA",
+    "id": 5631,
+    "department_id": 5
+  },
+  {
+    "name": "SALGAR",
+    "id": 5642,
+    "department_id": 5
+  },
+  {
+    "name": "SAN ANDRÉS DE CUERQUÍA",
+    "id": 5647,
+    "department_id": 5
+  },
+  {
+    "name": "SAN CARLOS",
+    "id": 5649,
+    "department_id": 5
+  },
+  {
+    "name": "SAN FRANCISCO",
+    "id": 5652,
+    "department_id": 5
+  },
+  {
+    "name": "SAN JERÓNIMO",
+    "id": 5656,
+    "department_id": 5
+  },
+  {
+    "name": "SAN JOSÉ DE LA MONTAÑA",
+    "id": 5658,
+    "department_id": 5
+  },
+  {
+    "name": "SAN JUAN DE URABÁ",
+    "id": 5659,
+    "department_id": 5
+  },
+  {
+    "name": "SAN LUIS",
+    "id": 5660,
+    "department_id": 5
+  },
+  {
+    "name": "SAN PEDRO DE LOS MILAGROS",
+    "id": 5664,
+    "department_id": 5
+  },
+  {
+    "name": "SAN PEDRO DE URABÁ",
+    "id": 5665,
+    "department_id": 5
+  },
+  {
+    "name": "SAN RAFAEL",
+    "id": 5667,
+    "department_id": 5
+  },
+  {
+    "name": "SAN ROQUE",
+    "id": 5670,
+    "department_id": 5
+  },
+  {
+    "name": "SAN VICENTE FERRER",
+    "id": 5674,
+    "department_id": 5
+  },
+  {
+    "name": "SANTA BÁRBARA",
+    "id": 5679,
+    "department_id": 5
+  },
+  {
+    "name": "SANTA ROSA DE OSOS",
+    "id": 5686,
+    "department_id": 5
+  },
+  {
+    "name": "SANTO DOMINGO",
+    "id": 5690,
+    "department_id": 5
+  },
+  {
+    "name": "EL SANTUARIO",
+    "id": 5697,
+    "department_id": 5
+  },
+  {
+    "name": "SEGOVIA",
+    "id": 5736,
+    "department_id": 5
+  },
+  {
+    "name": "SONSÓN",
+    "id": 5756,
+    "department_id": 5
+  },
+  {
+    "name": "SOPETRÁN",
+    "id": 5761,
+    "department_id": 5
+  },
+  {
+    "name": "TÁMESIS",
+    "id": 5789,
+    "department_id": 5
+  },
+  {
+    "name": "TARAZÁ",
+    "id": 5790,
+    "department_id": 5
+  },
+  {
+    "name": "TARSO",
+    "id": 5792,
+    "department_id": 5
+  },
+  {
+    "name": "TITIRIBÍ",
+    "id": 5809,
+    "department_id": 5
+  },
+  {
+    "name": "TOLEDO",
+    "id": 5819,
+    "department_id": 5
+  },
+  {
+    "name": "TURBO",
+    "id": 5837,
+    "department_id": 5
+  },
+  {
+    "name": "URAMITA",
+    "id": 5842,
+    "department_id": 5
+  },
+  {
+    "name": "URRAO",
+    "id": 5847,
+    "department_id": 5
+  },
+  {
+    "name": "VALDIVIA",
+    "id": 5854,
+    "department_id": 5
+  },
+  {
+    "name": "VALPARAÍSO",
+    "id": 5856,
+    "department_id": 5
+  },
+  {
+    "name": "VEGACHÍ",
+    "id": 5858,
+    "department_id": 5
+  },
+  {
+    "name": "VENECIA",
+    "id": 5861,
+    "department_id": 5
+  },
+  {
+    "name": "VIGÍA DEL FUERTE",
+    "id": 5873,
+    "department_id": 5
+  },
+  {
+    "name": "YALÍ",
+    "id": 5885,
+    "department_id": 5
+  },
+  {
+    "name": "YARUMAL",
+    "id": 5887,
+    "department_id": 5
+  },
+  {
+    "name": "YOLOMBÓ",
+    "id": 5890,
+    "department_id": 5
+  },
+  {
+    "name": "YONDÓ",
+    "id": 5893,
+    "department_id": 5
+  },
+  {
+    "name": "ZARAGOZA",
+    "id": 5895,
+    "department_id": 5
+  },
+  {
+    "name": "BARRANQUILLA",
+    "id": 8001,
+    "department_id": 8
+  },
+  {
+    "name": "BARANOA",
+    "id": 8078,
+    "department_id": 8
+  },
+  {
+    "name": "CAMPO DE LA CRUZ",
+    "id": 8137,
+    "department_id": 8
+  },
+  {
+    "name": "CANDELARIA",
+    "id": 8141,
+    "department_id": 8
+  },
+  {
+    "name": "GALAPA",
+    "id": 8296,
+    "department_id": 8
+  },
+  {
+    "name": "JUAN DE ACOSTA",
+    "id": 8372,
+    "department_id": 8
+  },
+  {
+    "name": "LURUACO",
+    "id": 8421,
+    "department_id": 8
+  },
+  {
+    "name": "MALAMBO",
+    "id": 8433,
+    "department_id": 8
+  },
+  {
+    "name": "MANATÍ",
+    "id": 8436,
+    "department_id": 8
+  },
+  {
+    "name": "PALMAR DE VARELA",
+    "id": 8520,
+    "department_id": 8
+  },
+  {
+    "name": "PIOJÓ",
+    "id": 8549,
+    "department_id": 8
+  },
+  {
+    "name": "POLONUEVO",
+    "id": 8558,
+    "department_id": 8
+  },
+  {
+    "name": "PONEDERA",
+    "id": 8560,
+    "department_id": 8
+  },
+  {
+    "name": "PUERTO COLOMBIA",
+    "id": 8573,
+    "department_id": 8
+  },
+  {
+    "name": "REPELÓN",
+    "id": 8606,
+    "department_id": 8
+  },
+  {
+    "name": "SABANAGRANDE",
+    "id": 8634,
+    "department_id": 8
+  },
+  {
+    "name": "SABANALARGA",
+    "id": 8638,
+    "department_id": 8
+  },
+  {
+    "name": "SANTA LUCÍA",
+    "id": 8675,
+    "department_id": 8
+  },
+  {
+    "name": "SANTO TOMÁS",
+    "id": 8685,
+    "department_id": 8
+  },
+  {
+    "name": "SOLEDAD",
+    "id": 8758,
+    "department_id": 8
+  },
+  {
+    "name": "SUAN",
+    "id": 8770,
+    "department_id": 8
+  },
+  {
+    "name": "TUBARÁ",
+    "id": 8832,
+    "department_id": 8
+  },
+  {
+    "name": "USIACURÍ",
+    "id": 8849,
+    "department_id": 8
+  },
+  {
+    "name": "BOGOTÁ, D.C.",
+    "id": 11001,
+    "department_id": 11
+  },
+  {
+    "name": "CARTAGENA DE INDIAS",
+    "id": 13001,
+    "department_id": 13
+  },
+  {
+    "name": "ACHÍ",
+    "id": 13006,
+    "department_id": 13
+  },
+  {
+    "name": "ALTOS DEL ROSARIO",
+    "id": 13030,
+    "department_id": 13
+  },
+  {
+    "name": "ARENAL",
+    "id": 13042,
+    "department_id": 13
+  },
+  {
+    "name": "ARJONA",
+    "id": 13052,
+    "department_id": 13
+  },
+  {
+    "name": "ARROYOHONDO",
+    "id": 13062,
+    "department_id": 13
+  },
+  {
+    "name": "BARRANCO DE LOBA",
+    "id": 13074,
+    "department_id": 13
+  },
+  {
+    "name": "CALAMAR",
+    "id": 13140,
+    "department_id": 13
+  },
+  {
+    "name": "CANTAGALLO",
+    "id": 13160,
+    "department_id": 13
+  },
+  {
+    "name": "CICUCO",
+    "id": 13188,
+    "department_id": 13
+  },
+  {
+    "name": "CÓRDOBA",
+    "id": 13212,
+    "department_id": 13
+  },
+  {
+    "name": "CLEMENCIA",
+    "id": 13222,
+    "department_id": 13
+  },
+  {
+    "name": "EL CARMEN DE BOLÍVAR",
+    "id": 13244,
+    "department_id": 13
+  },
+  {
+    "name": "EL GUAMO",
+    "id": 13248,
+    "department_id": 13
+  },
+  {
+    "name": "EL PEÑÓN",
+    "id": 13268,
+    "department_id": 13
+  },
+  {
+    "name": "HATILLO DE LOBA",
+    "id": 13300,
+    "department_id": 13
+  },
+  {
+    "name": "MAGANGUÉ",
+    "id": 13430,
+    "department_id": 13
+  },
+  {
+    "name": "MAHATES",
+    "id": 13433,
+    "department_id": 13
+  },
+  {
+    "name": "MARGARITA",
+    "id": 13440,
+    "department_id": 13
+  },
+  {
+    "name": "MARÍA LA BAJA",
+    "id": 13442,
+    "department_id": 13
+  },
+  {
+    "name": "MONTECRISTO",
+    "id": 13458,
+    "department_id": 13
+  },
+  {
+    "name": "MOMPÓS",
+    "id": 13468,
+    "department_id": 13
+  },
+  {
+    "name": "MORALES",
+    "id": 13473,
+    "department_id": 13
+  },
+  {
+    "name": "NOROSÍ",
+    "id": 13490,
+    "department_id": 13
+  },
+  {
+    "name": "PINILLOS",
+    "id": 13549,
+    "department_id": 13
+  },
+  {
+    "name": "REGIDOR",
+    "id": 13580,
+    "department_id": 13
+  },
+  {
+    "name": "RÍO VIEJO",
+    "id": 13600,
+    "department_id": 13
+  },
+  {
+    "name": "SAN CRISTÓBAL",
+    "id": 13620,
+    "department_id": 13
+  },
+  {
+    "name": "SAN ESTANISLAO",
+    "id": 13647,
+    "department_id": 13
+  },
+  {
+    "name": "SAN FERNANDO",
+    "id": 13650,
+    "department_id": 13
+  },
+  {
+    "name": "SAN JACINTO",
+    "id": 13654,
+    "department_id": 13
+  },
+  {
+    "name": "SAN JACINTO DEL CAUCA",
+    "id": 13655,
+    "department_id": 13
+  },
+  {
+    "name": "SAN JUAN NEPOMUCENO",
+    "id": 13657,
+    "department_id": 13
+  },
+  {
+    "name": "SAN MARTÍN DE LOBA",
+    "id": 13667,
+    "department_id": 13
+  },
+  {
+    "name": "SAN PABLO",
+    "id": 13670,
+    "department_id": 13
+  },
+  {
+    "name": "SANTA CATALINA",
+    "id": 13673,
+    "department_id": 13
+  },
+  {
+    "name": "SANTA ROSA",
+    "id": 13683,
+    "department_id": 13
+  },
+  {
+    "name": "SANTA ROSA DEL SUR",
+    "id": 13688,
+    "department_id": 13
+  },
+  {
+    "name": "SIMITÍ",
+    "id": 13744,
+    "department_id": 13
+  },
+  {
+    "name": "SOPLAVIENTO",
+    "id": 13760,
+    "department_id": 13
+  },
+  {
+    "name": "TALAIGUA NUEVO",
+    "id": 13780,
+    "department_id": 13
+  },
+  {
+    "name": "TIQUISIO",
+    "id": 13810,
+    "department_id": 13
+  },
+  {
+    "name": "TURBACO",
+    "id": 13836,
+    "department_id": 13
+  },
+  {
+    "name": "TURBANÁ",
+    "id": 13838,
+    "department_id": 13
+  },
+  {
+    "name": "VILLANUEVA",
+    "id": 13873,
+    "department_id": 13
+  },
+  {
+    "name": "ZAMBRANO",
+    "id": 13894,
+    "department_id": 13
+  },
+  {
+    "name": "TUNJA",
+    "id": 15001,
+    "department_id": 15
+  },
+  {
+    "name": "ALMEIDA",
+    "id": 15022,
+    "department_id": 15
+  },
+  {
+    "name": "AQUITANIA",
+    "id": 15047,
+    "department_id": 15
+  },
+  {
+    "name": "ARCABUCO",
+    "id": 15051,
+    "department_id": 15
+  },
+  {
+    "name": "BELÉN",
+    "id": 15087,
+    "department_id": 15
+  },
+  {
+    "name": "BERBEO",
+    "id": 15090,
+    "department_id": 15
+  },
+  {
+    "name": "BETÉITIVA",
+    "id": 15092,
+    "department_id": 15
+  },
+  {
+    "name": "BOAVITA",
+    "id": 15097,
+    "department_id": 15
+  },
+  {
+    "name": "BOYACÁ",
+    "id": 15104,
+    "department_id": 15
+  },
+  {
+    "name": "BRICEÑO",
+    "id": 15106,
+    "department_id": 15
+  },
+  {
+    "name": "BUENAVISTA",
+    "id": 15109,
+    "department_id": 15
+  },
+  {
+    "name": "BUSBANZÁ",
+    "id": 15114,
+    "department_id": 15
+  },
+  {
+    "name": "CALDAS",
+    "id": 15131,
+    "department_id": 15
+  },
+  {
+    "name": "CAMPOHERMOSO",
+    "id": 15135,
+    "department_id": 15
+  },
+  {
+    "name": "CERINZA",
+    "id": 15162,
+    "department_id": 15
+  },
+  {
+    "name": "CHINAVITA",
+    "id": 15172,
+    "department_id": 15
+  },
+  {
+    "name": "CHIQUINQUIRÁ",
+    "id": 15176,
+    "department_id": 15
+  },
+  {
+    "name": "CHISCAS",
+    "id": 15180,
+    "department_id": 15
+  },
+  {
+    "name": "CHITA",
+    "id": 15183,
+    "department_id": 15
+  },
+  {
+    "name": "CHITARAQUE",
+    "id": 15185,
+    "department_id": 15
+  },
+  {
+    "name": "CHIVATÁ",
+    "id": 15187,
+    "department_id": 15
+  },
+  {
+    "name": "CIÉNEGA",
+    "id": 15189,
+    "department_id": 15
+  },
+  {
+    "name": "CÓMBITA",
+    "id": 15204,
+    "department_id": 15
+  },
+  {
+    "name": "COPER",
+    "id": 15212,
+    "department_id": 15
+  },
+  {
+    "name": "CORRALES",
+    "id": 15215,
+    "department_id": 15
+  },
+  {
+    "name": "COVARACHÍA",
+    "id": 15218,
+    "department_id": 15
+  },
+  {
+    "name": "CUBARÁ",
+    "id": 15223,
+    "department_id": 15
+  },
+  {
+    "name": "CUCAITA",
+    "id": 15224,
+    "department_id": 15
+  },
+  {
+    "name": "CUÍTIVA",
+    "id": 15226,
+    "department_id": 15
+  },
+  {
+    "name": "CHÍQUIZA",
+    "id": 15232,
+    "department_id": 15
+  },
+  {
+    "name": "CHIVOR",
+    "id": 15236,
+    "department_id": 15
+  },
+  {
+    "name": "DUITAMA",
+    "id": 15238,
+    "department_id": 15
+  },
+  {
+    "name": "EL COCUY",
+    "id": 15244,
+    "department_id": 15
+  },
+  {
+    "name": "EL ESPINO",
+    "id": 15248,
+    "department_id": 15
+  },
+  {
+    "name": "FIRAVITOBA",
+    "id": 15272,
+    "department_id": 15
+  },
+  {
+    "name": "FLORESTA",
+    "id": 15276,
+    "department_id": 15
+  },
+  {
+    "name": "GACHANTIVÁ",
+    "id": 15293,
+    "department_id": 15
+  },
+  {
+    "name": "GÁMEZA",
+    "id": 15296,
+    "department_id": 15
+  },
+  {
+    "name": "GARAGOA",
+    "id": 15299,
+    "department_id": 15
+  },
+  {
+    "name": "GUACAMAYAS",
+    "id": 15317,
+    "department_id": 15
+  },
+  {
+    "name": "GUATEQUE",
+    "id": 15322,
+    "department_id": 15
+  },
+  {
+    "name": "GUAYATÁ",
+    "id": 15325,
+    "department_id": 15
+  },
+  {
+    "name": "GÜICÁN DE LA SIERRA",
+    "id": 15332,
+    "department_id": 15
+  },
+  {
+    "name": "IZA",
+    "id": 15362,
+    "department_id": 15
+  },
+  {
+    "name": "JENESANO",
+    "id": 15367,
+    "department_id": 15
+  },
+  {
+    "name": "JERICÓ",
+    "id": 15368,
+    "department_id": 15
+  },
+  {
+    "name": "LABRANZAGRANDE",
+    "id": 15377,
+    "department_id": 15
+  },
+  {
+    "name": "LA CAPILLA",
+    "id": 15380,
+    "department_id": 15
+  },
+  {
+    "name": "LA VICTORIA",
+    "id": 15401,
+    "department_id": 15
+  },
+  {
+    "name": "LA UVITA",
+    "id": 15403,
+    "department_id": 15
+  },
+  {
+    "name": "VILLA DE LEYVA",
+    "id": 15407,
+    "department_id": 15
+  },
+  {
+    "name": "MACANAL",
+    "id": 15425,
+    "department_id": 15
+  },
+  {
+    "name": "MARIPÍ",
+    "id": 15442,
+    "department_id": 15
+  },
+  {
+    "name": "MIRAFLORES",
+    "id": 15455,
+    "department_id": 15
+  },
+  {
+    "name": "MONGUA",
+    "id": 15464,
+    "department_id": 15
+  },
+  {
+    "name": "MONGUÍ",
+    "id": 15466,
+    "department_id": 15
+  },
+  {
+    "name": "MONIQUIRÁ",
+    "id": 15469,
+    "department_id": 15
+  },
+  {
+    "name": "MOTAVITA",
+    "id": 15476,
+    "department_id": 15
+  },
+  {
+    "name": "MUZO",
+    "id": 15480,
+    "department_id": 15
+  },
+  {
+    "name": "NOBSA",
+    "id": 15491,
+    "department_id": 15
+  },
+  {
+    "name": "NUEVO COLÓN",
+    "id": 15494,
+    "department_id": 15
+  },
+  {
+    "name": "OICATÁ",
+    "id": 15500,
+    "department_id": 15
+  },
+  {
+    "name": "OTANCHE",
+    "id": 15507,
+    "department_id": 15
+  },
+  {
+    "name": "PACHAVITA",
+    "id": 15511,
+    "department_id": 15
+  },
+  {
+    "name": "PÁEZ",
+    "id": 15514,
+    "department_id": 15
+  },
+  {
+    "name": "PAIPA",
+    "id": 15516,
+    "department_id": 15
+  },
+  {
+    "name": "PAJARITO",
+    "id": 15518,
+    "department_id": 15
+  },
+  {
+    "name": "PANQUEBA",
+    "id": 15522,
+    "department_id": 15
+  },
+  {
+    "name": "PAUNA",
+    "id": 15531,
+    "department_id": 15
+  },
+  {
+    "name": "PAYA",
+    "id": 15533,
+    "department_id": 15
+  },
+  {
+    "name": "PAZ DE RÍO",
+    "id": 15537,
+    "department_id": 15
+  },
+  {
+    "name": "PESCA",
+    "id": 15542,
+    "department_id": 15
+  },
+  {
+    "name": "PISBA",
+    "id": 15550,
+    "department_id": 15
+  },
+  {
+    "name": "PUERTO BOYACÁ",
+    "id": 15572,
+    "department_id": 15
+  },
+  {
+    "name": "QUÍPAMA",
+    "id": 15580,
+    "department_id": 15
+  },
+  {
+    "name": "RAMIRIQUÍ",
+    "id": 15599,
+    "department_id": 15
+  },
+  {
+    "name": "RÁQUIRA",
+    "id": 15600,
+    "department_id": 15
+  },
+  {
+    "name": "RONDÓN",
+    "id": 15621,
+    "department_id": 15
+  },
+  {
+    "name": "SABOYÁ",
+    "id": 15632,
+    "department_id": 15
+  },
+  {
+    "name": "SÁCHICA",
+    "id": 15638,
+    "department_id": 15
+  },
+  {
+    "name": "SAMACÁ",
+    "id": 15646,
+    "department_id": 15
+  },
+  {
+    "name": "SAN EDUARDO",
+    "id": 15660,
+    "department_id": 15
+  },
+  {
+    "name": "SAN JOSÉ DE PARE",
+    "id": 15664,
+    "department_id": 15
+  },
+  {
+    "name": "SAN LUIS DE GACENO",
+    "id": 15667,
+    "department_id": 15
+  },
+  {
+    "name": "SAN MATEO",
+    "id": 15673,
+    "department_id": 15
+  },
+  {
+    "name": "SAN MIGUEL DE SEMA",
+    "id": 15676,
+    "department_id": 15
+  },
+  {
+    "name": "SAN PABLO DE BORBUR",
+    "id": 15681,
+    "department_id": 15
+  },
+  {
+    "name": "SANTANA",
+    "id": 15686,
+    "department_id": 15
+  },
+  {
+    "name": "SANTA MARÍA",
+    "id": 15690,
+    "department_id": 15
+  },
+  {
+    "name": "SANTA ROSA DE VITERBO",
+    "id": 15693,
+    "department_id": 15
+  },
+  {
+    "name": "SANTA SOFÍA",
+    "id": 15696,
+    "department_id": 15
+  },
+  {
+    "name": "SATIVANORTE",
+    "id": 15720,
+    "department_id": 15
+  },
+  {
+    "name": "SATIVASUR",
+    "id": 15723,
+    "department_id": 15
+  },
+  {
+    "name": "SIACHOQUE",
+    "id": 15740,
+    "department_id": 15
+  },
+  {
+    "name": "SOATÁ",
+    "id": 15753,
+    "department_id": 15
+  },
+  {
+    "name": "SOCOTÁ",
+    "id": 15755,
+    "department_id": 15
+  },
+  {
+    "name": "SOCHA",
+    "id": 15757,
+    "department_id": 15
+  },
+  {
+    "name": "SOGAMOSO",
+    "id": 15759,
+    "department_id": 15
+  },
+  {
+    "name": "SOMONDOCO",
+    "id": 15761,
+    "department_id": 15
+  },
+  {
+    "name": "SORA",
+    "id": 15762,
+    "department_id": 15
+  },
+  {
+    "name": "SOTAQUIRÁ",
+    "id": 15763,
+    "department_id": 15
+  },
+  {
+    "name": "SORACÁ",
+    "id": 15764,
+    "department_id": 15
+  },
+  {
+    "name": "SUSACÓN",
+    "id": 15774,
+    "department_id": 15
+  },
+  {
+    "name": "SUTAMARCHÁN",
+    "id": 15776,
+    "department_id": 15
+  },
+  {
+    "name": "SUTATENZA",
+    "id": 15778,
+    "department_id": 15
+  },
+  {
+    "name": "TASCO",
+    "id": 15790,
+    "department_id": 15
+  },
+  {
+    "name": "TENZA",
+    "id": 15798,
+    "department_id": 15
+  },
+  {
+    "name": "TIBANÁ",
+    "id": 15804,
+    "department_id": 15
+  },
+  {
+    "name": "TIBASOSA",
+    "id": 15806,
+    "department_id": 15
+  },
+  {
+    "name": "TINJACÁ",
+    "id": 15808,
+    "department_id": 15
+  },
+  {
+    "name": "TIPACOQUE",
+    "id": 15810,
+    "department_id": 15
+  },
+  {
+    "name": "TOCA",
+    "id": 15814,
+    "department_id": 15
+  },
+  {
+    "name": "TOGÜÍ",
+    "id": 15816,
+    "department_id": 15
+  },
+  {
+    "name": "TÓPAGA",
+    "id": 15820,
+    "department_id": 15
+  },
+  {
+    "name": "TOTA",
+    "id": 15822,
+    "department_id": 15
+  },
+  {
+    "name": "TUNUNGUÁ",
+    "id": 15832,
+    "department_id": 15
+  },
+  {
+    "name": "TURMEQUÉ",
+    "id": 15835,
+    "department_id": 15
+  },
+  {
+    "name": "TUTA",
+    "id": 15837,
+    "department_id": 15
+  },
+  {
+    "name": "TUTAZÁ",
+    "id": 15839,
+    "department_id": 15
+  },
+  {
+    "name": "ÚMBITA",
+    "id": 15842,
+    "department_id": 15
+  },
+  {
+    "name": "VENTAQUEMADA",
+    "id": 15861,
+    "department_id": 15
+  },
+  {
+    "name": "VIRACACHÁ",
+    "id": 15879,
+    "department_id": 15
+  },
+  {
+    "name": "ZETAQUIRA",
+    "id": 15897,
+    "department_id": 15
+  },
+  {
+    "name": "MANIZALES",
+    "id": 17001,
+    "department_id": 17
+  },
+  {
+    "name": "AGUADAS",
+    "id": 17013,
+    "department_id": 17
+  },
+  {
+    "name": "ANSERMA",
+    "id": 17042,
+    "department_id": 17
+  },
+  {
+    "name": "ARANZAZU",
+    "id": 17050,
+    "department_id": 17
+  },
+  {
+    "name": "BELALCÁZAR",
+    "id": 17088,
+    "department_id": 17
+  },
+  {
+    "name": "CHINCHINÁ",
+    "id": 17174,
+    "department_id": 17
+  },
+  {
+    "name": "FILADELFIA",
+    "id": 17272,
+    "department_id": 17
+  },
+  {
+    "name": "LA DORADA",
+    "id": 17380,
+    "department_id": 17
+  },
+  {
+    "name": "LA MERCED",
+    "id": 17388,
+    "department_id": 17
+  },
+  {
+    "name": "MANZANARES",
+    "id": 17433,
+    "department_id": 17
+  },
+  {
+    "name": "MARMATO",
+    "id": 17442,
+    "department_id": 17
+  },
+  {
+    "name": "MARQUETALIA",
+    "id": 17444,
+    "department_id": 17
+  },
+  {
+    "name": "MARULANDA",
+    "id": 17446,
+    "department_id": 17
+  },
+  {
+    "name": "NEIRA",
+    "id": 17486,
+    "department_id": 17
+  },
+  {
+    "name": "NORCASIA",
+    "id": 17495,
+    "department_id": 17
+  },
+  {
+    "name": "PÁCORA",
+    "id": 17513,
+    "department_id": 17
+  },
+  {
+    "name": "PALESTINA",
+    "id": 17524,
+    "department_id": 17
+  },
+  {
+    "name": "PENSILVANIA",
+    "id": 17541,
+    "department_id": 17
+  },
+  {
+    "name": "RIOSUCIO",
+    "id": 17614,
+    "department_id": 17
+  },
+  {
+    "name": "RISARALDA",
+    "id": 17616,
+    "department_id": 17
+  },
+  {
+    "name": "SALAMINA",
+    "id": 17653,
+    "department_id": 17
+  },
+  {
+    "name": "SAMANÁ",
+    "id": 17662,
+    "department_id": 17
+  },
+  {
+    "name": "SAN JOSÉ",
+    "id": 17665,
+    "department_id": 17
+  },
+  {
+    "name": "SUPÍA",
+    "id": 17777,
+    "department_id": 17
+  },
+  {
+    "name": "VICTORIA",
+    "id": 17867,
+    "department_id": 17
+  },
+  {
+    "name": "VILLAMARÍA",
+    "id": 17873,
+    "department_id": 17
+  },
+  {
+    "name": "VITERBO",
+    "id": 17877,
+    "department_id": 17
+  },
+  {
+    "name": "FLORENCIA",
+    "id": 18001,
+    "department_id": 18
+  },
+  {
+    "name": "ALBANIA",
+    "id": 18029,
+    "department_id": 18
+  },
+  {
+    "name": "BELÉN DE LOS ANDAQUÍES",
+    "id": 18094,
+    "department_id": 18
+  },
+  {
+    "name": "CARTAGENA DEL CHAIRÁ",
+    "id": 18150,
+    "department_id": 18
+  },
+  {
+    "name": "CURILLO",
+    "id": 18205,
+    "department_id": 18
+  },
+  {
+    "name": "EL DONCELLO",
+    "id": 18247,
+    "department_id": 18
+  },
+  {
+    "name": "EL PAUJÍL",
+    "id": 18256,
+    "department_id": 18
+  },
+  {
+    "name": "LA MONTAÑITA",
+    "id": 18410,
+    "department_id": 18
+  },
+  {
+    "name": "MILÁN",
+    "id": 18460,
+    "department_id": 18
+  },
+  {
+    "name": "MORELIA",
+    "id": 18479,
+    "department_id": 18
+  },
+  {
+    "name": "PUERTO RICO",
+    "id": 18592,
+    "department_id": 18
+  },
+  {
+    "name": "SAN JOSÉ DEL FRAGUA",
+    "id": 18610,
+    "department_id": 18
+  },
+  {
+    "name": "SAN VICENTE DEL CAGUÁN",
+    "id": 18753,
+    "department_id": 18
+  },
+  {
+    "name": "SOLANO",
+    "id": 18756,
+    "department_id": 18
+  },
+  {
+    "name": "SOLITA",
+    "id": 18785,
+    "department_id": 18
+  },
+  {
+    "name": "VALPARAÍSO",
+    "id": 18860,
+    "department_id": 18
+  },
+  {
+    "name": "POPAYÁN",
+    "id": 19001,
+    "department_id": 19
+  },
+  {
+    "name": "ALMAGUER",
+    "id": 19022,
+    "department_id": 19
+  },
+  {
+    "name": "ARGELIA",
+    "id": 19050,
+    "department_id": 19
+  },
+  {
+    "name": "BALBOA",
+    "id": 19075,
+    "department_id": 19
+  },
+  {
+    "name": "BOLÍVAR",
+    "id": 19100,
+    "department_id": 19
+  },
+  {
+    "name": "BUENOS AIRES",
+    "id": 19110,
+    "department_id": 19
+  },
+  {
+    "name": "CAJIBÍO",
+    "id": 19130,
+    "department_id": 19
+  },
+  {
+    "name": "CALDONO",
+    "id": 19137,
+    "department_id": 19
+  },
+  {
+    "name": "CALOTO",
+    "id": 19142,
+    "department_id": 19
+  },
+  {
+    "name": "CORINTO",
+    "id": 19212,
+    "department_id": 19
+  },
+  {
+    "name": "EL TAMBO",
+    "id": 19256,
+    "department_id": 19
+  },
+  {
+    "name": "FLORENCIA",
+    "id": 19290,
+    "department_id": 19
+  },
+  {
+    "name": "GUACHENÉ",
+    "id": 19300,
+    "department_id": 19
+  },
+  {
+    "name": "GUAPI",
+    "id": 19318,
+    "department_id": 19
+  },
+  {
+    "name": "INZÁ",
+    "id": 19355,
+    "department_id": 19
+  },
+  {
+    "name": "JAMBALÓ",
+    "id": 19364,
+    "department_id": 19
+  },
+  {
+    "name": "LA SIERRA",
+    "id": 19392,
+    "department_id": 19
+  },
+  {
+    "name": "LA VEGA",
+    "id": 19397,
+    "department_id": 19
+  },
+  {
+    "name": "LÓPEZ DE MICAY",
+    "id": 19418,
+    "department_id": 19
+  },
+  {
+    "name": "MERCADERES",
+    "id": 19450,
+    "department_id": 19
+  },
+  {
+    "name": "MIRANDA",
+    "id": 19455,
+    "department_id": 19
+  },
+  {
+    "name": "MORALES",
+    "id": 19473,
+    "department_id": 19
+  },
+  {
+    "name": "PADILLA",
+    "id": 19513,
+    "department_id": 19
+  },
+  {
+    "name": "PÁEZ",
+    "id": 19517,
+    "department_id": 19
+  },
+  {
+    "name": "PATÍA",
+    "id": 19532,
+    "department_id": 19
+  },
+  {
+    "name": "PIAMONTE",
+    "id": 19533,
+    "department_id": 19
+  },
+  {
+    "name": "PIENDAMÓ - TUNÍA",
+    "id": 19548,
+    "department_id": 19
+  },
+  {
+    "name": "PUERTO TEJADA",
+    "id": 19573,
+    "department_id": 19
+  },
+  {
+    "name": "PURACÉ",
+    "id": 19585,
+    "department_id": 19
+  },
+  {
+    "name": "ROSAS",
+    "id": 19622,
+    "department_id": 19
+  },
+  {
+    "name": "SAN SEBASTIÁN",
+    "id": 19693,
+    "department_id": 19
+  },
+  {
+    "name": "SANTANDER DE QUILICHAO",
+    "id": 19698,
+    "department_id": 19
+  },
+  {
+    "name": "SANTA ROSA",
+    "id": 19701,
+    "department_id": 19
+  },
+  {
+    "name": "SILVIA",
+    "id": 19743,
+    "department_id": 19
+  },
+  {
+    "name": "SOTARÁ PAISPAMBA",
+    "id": 19760,
+    "department_id": 19
+  },
+  {
+    "name": "SUÁREZ",
+    "id": 19780,
+    "department_id": 19
+  },
+  {
+    "name": "SUCRE",
+    "id": 19785,
+    "department_id": 19
+  },
+  {
+    "name": "TIMBÍO",
+    "id": 19807,
+    "department_id": 19
+  },
+  {
+    "name": "TIMBIQUÍ",
+    "id": 19809,
+    "department_id": 19
+  },
+  {
+    "name": "TORIBÍO",
+    "id": 19821,
+    "department_id": 19
+  },
+  {
+    "name": "TOTORÓ",
+    "id": 19824,
+    "department_id": 19
+  },
+  {
+    "name": "VILLA RICA",
+    "id": 19845,
+    "department_id": 19
+  },
+  {
+    "name": "VALLEDUPAR",
+    "id": 20001,
+    "department_id": 20
+  },
+  {
+    "name": "AGUACHICA",
+    "id": 20011,
+    "department_id": 20
+  },
+  {
+    "name": "AGUSTÍN CODAZZI",
+    "id": 20013,
+    "department_id": 20
+  },
+  {
+    "name": "ASTREA",
+    "id": 20032,
+    "department_id": 20
+  },
+  {
+    "name": "BECERRIL",
+    "id": 20045,
+    "department_id": 20
+  },
+  {
+    "name": "BOSCONIA",
+    "id": 20060,
+    "department_id": 20
+  },
+  {
+    "name": "CHIMICHAGUA",
+    "id": 20175,
+    "department_id": 20
+  },
+  {
+    "name": "CHIRIGUANÁ",
+    "id": 20178,
+    "department_id": 20
+  },
+  {
+    "name": "CURUMANÍ",
+    "id": 20228,
+    "department_id": 20
+  },
+  {
+    "name": "EL COPEY",
+    "id": 20238,
+    "department_id": 20
+  },
+  {
+    "name": "EL PASO",
+    "id": 20250,
+    "department_id": 20
+  },
+  {
+    "name": "GAMARRA",
+    "id": 20295,
+    "department_id": 20
+  },
+  {
+    "name": "GONZÁLEZ",
+    "id": 20310,
+    "department_id": 20
+  },
+  {
+    "name": "LA GLORIA",
+    "id": 20383,
+    "department_id": 20
+  },
+  {
+    "name": "LA JAGUA DE IBIRICO",
+    "id": 20400,
+    "department_id": 20
+  },
+  {
+    "name": "MANAURE BALCÓN DEL CESAR",
+    "id": 20443,
+    "department_id": 20
+  },
+  {
+    "name": "PAILITAS",
+    "id": 20517,
+    "department_id": 20
+  },
+  {
+    "name": "PELAYA",
+    "id": 20550,
+    "department_id": 20
+  },
+  {
+    "name": "PUEBLO BELLO",
+    "id": 20570,
+    "department_id": 20
+  },
+  {
+    "name": "RÍO DE ORO",
+    "id": 20614,
+    "department_id": 20
+  },
+  {
+    "name": "LA PAZ",
+    "id": 20621,
+    "department_id": 20
+  },
+  {
+    "name": "SAN ALBERTO",
+    "id": 20710,
+    "department_id": 20
+  },
+  {
+    "name": "SAN DIEGO",
+    "id": 20750,
+    "department_id": 20
+  },
+  {
+    "name": "SAN MARTÍN",
+    "id": 20770,
+    "department_id": 20
+  },
+  {
+    "name": "TAMALAMEQUE",
+    "id": 20787,
+    "department_id": 20
+  },
+  {
+    "name": "MONTERÍA",
+    "id": 23001,
+    "department_id": 23
+  },
+  {
+    "name": "AYAPEL",
+    "id": 23068,
+    "department_id": 23
+  },
+  {
+    "name": "BUENAVISTA",
+    "id": 23079,
+    "department_id": 23
+  },
+  {
+    "name": "CANALETE",
+    "id": 23090,
+    "department_id": 23
+  },
+  {
+    "name": "CERETÉ",
+    "id": 23162,
+    "department_id": 23
+  },
+  {
+    "name": "CHIMÁ",
+    "id": 23168,
+    "department_id": 23
+  },
+  {
+    "name": "CHINÚ",
+    "id": 23182,
+    "department_id": 23
+  },
+  {
+    "name": "CIÉNAGA DE ORO",
+    "id": 23189,
+    "department_id": 23
+  },
+  {
+    "name": "COTORRA",
+    "id": 23300,
+    "department_id": 23
+  },
+  {
+    "name": "LA APARTADA",
+    "id": 23350,
+    "department_id": 23
+  },
+  {
+    "name": "LORICA",
+    "id": 23417,
+    "department_id": 23
+  },
+  {
+    "name": "LOS CÓRDOBAS",
+    "id": 23419,
+    "department_id": 23
+  },
+  {
+    "name": "MOMIL",
+    "id": 23464,
+    "department_id": 23
+  },
+  {
+    "name": "MONTELÍBANO",
+    "id": 23466,
+    "department_id": 23
+  },
+  {
+    "name": "MOÑITOS",
+    "id": 23500,
+    "department_id": 23
+  },
+  {
+    "name": "PLANETA RICA",
+    "id": 23555,
+    "department_id": 23
+  },
+  {
+    "name": "PUEBLO NUEVO",
+    "id": 23570,
+    "department_id": 23
+  },
+  {
+    "name": "PUERTO ESCONDIDO",
+    "id": 23574,
+    "department_id": 23
+  },
+  {
+    "name": "PUERTO LIBERTADOR",
+    "id": 23580,
+    "department_id": 23
+  },
+  {
+    "name": "PURÍSIMA DE LA CONCEPCIÓN",
+    "id": 23586,
+    "department_id": 23
+  },
+  {
+    "name": "SAHAGÚN",
+    "id": 23660,
+    "department_id": 23
+  },
+  {
+    "name": "SAN ANDRÉS DE SOTAVENTO",
+    "id": 23670,
+    "department_id": 23
+  },
+  {
+    "name": "SAN ANTERO",
+    "id": 23672,
+    "department_id": 23
+  },
+  {
+    "name": "SAN BERNARDO DEL VIENTO",
+    "id": 23675,
+    "department_id": 23
+  },
+  {
+    "name": "SAN CARLOS",
+    "id": 23678,
+    "department_id": 23
+  },
+  {
+    "name": "SAN JOSÉ DE URÉ",
+    "id": 23682,
+    "department_id": 23
+  },
+  {
+    "name": "SAN PELAYO",
+    "id": 23686,
+    "department_id": 23
+  },
+  {
+    "name": "TIERRALTA",
+    "id": 23807,
+    "department_id": 23
+  },
+  {
+    "name": "TUCHÍN",
+    "id": 23815,
+    "department_id": 23
+  },
+  {
+    "name": "VALENCIA",
+    "id": 23855,
+    "department_id": 23
+  },
+  {
+    "name": "AGUA DE DIOS",
+    "id": 25001,
+    "department_id": 25
+  },
+  {
+    "name": "ALBÁN",
+    "id": 25019,
+    "department_id": 25
+  },
+  {
+    "name": "ANAPOIMA",
+    "id": 25035,
+    "department_id": 25
+  },
+  {
+    "name": "ANOLAIMA",
+    "id": 25040,
+    "department_id": 25
+  },
+  {
+    "name": "ARBELÁEZ",
+    "id": 25053,
+    "department_id": 25
+  },
+  {
+    "name": "BELTRÁN",
+    "id": 25086,
+    "department_id": 25
+  },
+  {
+    "name": "BITUIMA",
+    "id": 25095,
+    "department_id": 25
+  },
+  {
+    "name": "BOJACÁ",
+    "id": 25099,
+    "department_id": 25
+  },
+  {
+    "name": "CABRERA",
+    "id": 25120,
+    "department_id": 25
+  },
+  {
+    "name": "CACHIPAY",
+    "id": 25123,
+    "department_id": 25
+  },
+  {
+    "name": "CAJICÁ",
+    "id": 25126,
+    "department_id": 25
+  },
+  {
+    "name": "CAPARRAPÍ",
+    "id": 25148,
+    "department_id": 25
+  },
+  {
+    "name": "CÁQUEZA",
+    "id": 25151,
+    "department_id": 25
+  },
+  {
+    "name": "CARMEN DE CARUPA",
+    "id": 25154,
+    "department_id": 25
+  },
+  {
+    "name": "CHAGUANÍ",
+    "id": 25168,
+    "department_id": 25
+  },
+  {
+    "name": "CHÍA",
+    "id": 25175,
+    "department_id": 25
+  },
+  {
+    "name": "CHIPAQUE",
+    "id": 25178,
+    "department_id": 25
+  },
+  {
+    "name": "CHOACHÍ",
+    "id": 25181,
+    "department_id": 25
+  },
+  {
+    "name": "CHOCONTÁ",
+    "id": 25183,
+    "department_id": 25
+  },
+  {
+    "name": "COGUA",
+    "id": 25200,
+    "department_id": 25
+  },
+  {
+    "name": "COTA",
+    "id": 25214,
+    "department_id": 25
+  },
+  {
+    "name": "CUCUNUBÁ",
+    "id": 25224,
+    "department_id": 25
+  },
+  {
+    "name": "EL COLEGIO",
+    "id": 25245,
+    "department_id": 25
+  },
+  {
+    "name": "EL PEÑÓN",
+    "id": 25258,
+    "department_id": 25
+  },
+  {
+    "name": "EL ROSAL",
+    "id": 25260,
+    "department_id": 25
+  },
+  {
+    "name": "FACATATIVÁ",
+    "id": 25269,
+    "department_id": 25
+  },
+  {
+    "name": "FÓMEQUE",
+    "id": 25279,
+    "department_id": 25
+  },
+  {
+    "name": "FOSCA",
+    "id": 25281,
+    "department_id": 25
+  },
+  {
+    "name": "FUNZA",
+    "id": 25286,
+    "department_id": 25
+  },
+  {
+    "name": "FÚQUENE",
+    "id": 25288,
+    "department_id": 25
+  },
+  {
+    "name": "FUSAGASUGÁ",
+    "id": 25290,
+    "department_id": 25
+  },
+  {
+    "name": "GACHALÁ",
+    "id": 25293,
+    "department_id": 25
+  },
+  {
+    "name": "GACHANCIPÁ",
+    "id": 25295,
+    "department_id": 25
+  },
+  {
+    "name": "GACHETÁ",
+    "id": 25297,
+    "department_id": 25
+  },
+  {
+    "name": "GAMA",
+    "id": 25299,
+    "department_id": 25
+  },
+  {
+    "name": "GIRARDOT",
+    "id": 25307,
+    "department_id": 25
+  },
+  {
+    "name": "GRANADA",
+    "id": 25312,
+    "department_id": 25
+  },
+  {
+    "name": "GUACHETÁ",
+    "id": 25317,
+    "department_id": 25
+  },
+  {
+    "name": "GUADUAS",
+    "id": 25320,
+    "department_id": 25
+  },
+  {
+    "name": "GUASCA",
+    "id": 25322,
+    "department_id": 25
+  },
+  {
+    "name": "GUATAQUÍ",
+    "id": 25324,
+    "department_id": 25
+  },
+  {
+    "name": "GUATAVITA",
+    "id": 25326,
+    "department_id": 25
+  },
+  {
+    "name": "GUAYABAL DE SÍQUIMA",
+    "id": 25328,
+    "department_id": 25
+  },
+  {
+    "name": "GUAYABETAL",
+    "id": 25335,
+    "department_id": 25
+  },
+  {
+    "name": "GUTIÉRREZ",
+    "id": 25339,
+    "department_id": 25
+  },
+  {
+    "name": "JERUSALÉN",
+    "id": 25368,
+    "department_id": 25
+  },
+  {
+    "name": "JUNÍN",
+    "id": 25372,
+    "department_id": 25
+  },
+  {
+    "name": "LA CALERA",
+    "id": 25377,
+    "department_id": 25
+  },
+  {
+    "name": "LA MESA",
+    "id": 25386,
+    "department_id": 25
+  },
+  {
+    "name": "LA PALMA",
+    "id": 25394,
+    "department_id": 25
+  },
+  {
+    "name": "LA PEÑA",
+    "id": 25398,
+    "department_id": 25
+  },
+  {
+    "name": "LA VEGA",
+    "id": 25402,
+    "department_id": 25
+  },
+  {
+    "name": "LENGUAZAQUE",
+    "id": 25407,
+    "department_id": 25
+  },
+  {
+    "name": "MACHETÁ",
+    "id": 25426,
+    "department_id": 25
+  },
+  {
+    "name": "MADRID",
+    "id": 25430,
+    "department_id": 25
+  },
+  {
+    "name": "MANTA",
+    "id": 25436,
+    "department_id": 25
+  },
+  {
+    "name": "MEDINA",
+    "id": 25438,
+    "department_id": 25
+  },
+  {
+    "name": "MOSQUERA",
+    "id": 25473,
+    "department_id": 25
+  },
+  {
+    "name": "NARIÑO",
+    "id": 25483,
+    "department_id": 25
+  },
+  {
+    "name": "NEMOCÓN",
+    "id": 25486,
+    "department_id": 25
+  },
+  {
+    "name": "NILO",
+    "id": 25488,
+    "department_id": 25
+  },
+  {
+    "name": "NIMAIMA",
+    "id": 25489,
+    "department_id": 25
+  },
+  {
+    "name": "NOCAIMA",
+    "id": 25491,
+    "department_id": 25
+  },
+  {
+    "name": "VENECIA",
+    "id": 25506,
+    "department_id": 25
+  },
+  {
+    "name": "PACHO",
+    "id": 25513,
+    "department_id": 25
+  },
+  {
+    "name": "PAIME",
+    "id": 25518,
+    "department_id": 25
+  },
+  {
+    "name": "PANDI",
+    "id": 25524,
+    "department_id": 25
+  },
+  {
+    "name": "PARATEBUENO",
+    "id": 25530,
+    "department_id": 25
+  },
+  {
+    "name": "PASCA",
+    "id": 25535,
+    "department_id": 25
+  },
+  {
+    "name": "PUERTO SALGAR",
+    "id": 25572,
+    "department_id": 25
+  },
+  {
+    "name": "PULÍ",
+    "id": 25580,
+    "department_id": 25
+  },
+  {
+    "name": "QUEBRADANEGRA",
+    "id": 25592,
+    "department_id": 25
+  },
+  {
+    "name": "QUETAME",
+    "id": 25594,
+    "department_id": 25
+  },
+  {
+    "name": "QUIPILE",
+    "id": 25596,
+    "department_id": 25
+  },
+  {
+    "name": "APULO",
+    "id": 25599,
+    "department_id": 25
+  },
+  {
+    "name": "RICAURTE",
+    "id": 25612,
+    "department_id": 25
+  },
+  {
+    "name": "SAN ANTONIO DEL TEQUENDAMA",
+    "id": 25645,
+    "department_id": 25
+  },
+  {
+    "name": "SAN BERNARDO",
+    "id": 25649,
+    "department_id": 25
+  },
+  {
+    "name": "SAN CAYETANO",
+    "id": 25653,
+    "department_id": 25
+  },
+  {
+    "name": "SAN FRANCISCO",
+    "id": 25658,
+    "department_id": 25
+  },
+  {
+    "name": "SAN JUAN DE RIOSECO",
+    "id": 25662,
+    "department_id": 25
+  },
+  {
+    "name": "SASAIMA",
+    "id": 25718,
+    "department_id": 25
+  },
+  {
+    "name": "SESQUILÉ",
+    "id": 25736,
+    "department_id": 25
+  },
+  {
+    "name": "SIBATÉ",
+    "id": 25740,
+    "department_id": 25
+  },
+  {
+    "name": "SILVANIA",
+    "id": 25743,
+    "department_id": 25
+  },
+  {
+    "name": "SIMIJACA",
+    "id": 25745,
+    "department_id": 25
+  },
+  {
+    "name": "SOACHA",
+    "id": 25754,
+    "department_id": 25
+  },
+  {
+    "name": "SOPÓ",
+    "id": 25758,
+    "department_id": 25
+  },
+  {
+    "name": "SUBACHOQUE",
+    "id": 25769,
+    "department_id": 25
+  },
+  {
+    "name": "SUESCA",
+    "id": 25772,
+    "department_id": 25
+  },
+  {
+    "name": "SUPATÁ",
+    "id": 25777,
+    "department_id": 25
+  },
+  {
+    "name": "SUSA",
+    "id": 25779,
+    "department_id": 25
+  },
+  {
+    "name": "SUTATAUSA",
+    "id": 25781,
+    "department_id": 25
+  },
+  {
+    "name": "TABIO",
+    "id": 25785,
+    "department_id": 25
+  },
+  {
+    "name": "TAUSA",
+    "id": 25793,
+    "department_id": 25
+  },
+  {
+    "name": "TENA",
+    "id": 25797,
+    "department_id": 25
+  },
+  {
+    "name": "TENJO",
+    "id": 25799,
+    "department_id": 25
+  },
+  {
+    "name": "TIBACUY",
+    "id": 25805,
+    "department_id": 25
+  },
+  {
+    "name": "TIBIRITA",
+    "id": 25807,
+    "department_id": 25
+  },
+  {
+    "name": "TOCAIMA",
+    "id": 25815,
+    "department_id": 25
+  },
+  {
+    "name": "TOCANCIPÁ",
+    "id": 25817,
+    "department_id": 25
+  },
+  {
+    "name": "TOPAIPÍ",
+    "id": 25823,
+    "department_id": 25
+  },
+  {
+    "name": "UBALÁ",
+    "id": 25839,
+    "department_id": 25
+  },
+  {
+    "name": "UBAQUE",
+    "id": 25841,
+    "department_id": 25
+  },
+  {
+    "name": "VILLA DE SAN DIEGO DE UBATÉ",
+    "id": 25843,
+    "department_id": 25
+  },
+  {
+    "name": "UNE",
+    "id": 25845,
+    "department_id": 25
+  },
+  {
+    "name": "ÚTICA",
+    "id": 25851,
+    "department_id": 25
+  },
+  {
+    "name": "VERGARA",
+    "id": 25862,
+    "department_id": 25
+  },
+  {
+    "name": "VIANÍ",
+    "id": 25867,
+    "department_id": 25
+  },
+  {
+    "name": "VILLAGÓMEZ",
+    "id": 25871,
+    "department_id": 25
+  },
+  {
+    "name": "VILLAPINZÓN",
+    "id": 25873,
+    "department_id": 25
+  },
+  {
+    "name": "VILLETA",
+    "id": 25875,
+    "department_id": 25
+  },
+  {
+    "name": "VIOTÁ",
+    "id": 25878,
+    "department_id": 25
+  },
+  {
+    "name": "YACOPÍ",
+    "id": 25885,
+    "department_id": 25
+  },
+  {
+    "name": "ZIPACÓN",
+    "id": 25898,
+    "department_id": 25
+  },
+  {
+    "name": "ZIPAQUIRÁ",
+    "id": 25899,
+    "department_id": 25
+  },
+  {
+    "name": "QUIBDÓ",
+    "id": 27001,
+    "department_id": 27
+  },
+  {
+    "name": "ACANDÍ",
+    "id": 27006,
+    "department_id": 27
+  },
+  {
+    "name": "ALTO BAUDÓ",
+    "id": 27025,
+    "department_id": 27
+  },
+  {
+    "name": "ATRATO",
+    "id": 27050,
+    "department_id": 27
+  },
+  {
+    "name": "BAGADÓ",
+    "id": 27073,
+    "department_id": 27
+  },
+  {
+    "name": "BAHÍA SOLANO",
+    "id": 27075,
+    "department_id": 27
+  },
+  {
+    "name": "BAJO BAUDÓ",
+    "id": 27077,
+    "department_id": 27
+  },
+  {
+    "name": "BOJAYÁ",
+    "id": 27099,
+    "department_id": 27
+  },
+  {
+    "name": "EL CANTÓN DEL SAN PABLO",
+    "id": 27135,
+    "department_id": 27
+  },
+  {
+    "name": "CARMEN DEL DARIÉN",
+    "id": 27150,
+    "department_id": 27
+  },
+  {
+    "name": "CÉRTEGUI",
+    "id": 27160,
+    "department_id": 27
+  },
+  {
+    "name": "CONDOTO",
+    "id": 27205,
+    "department_id": 27
+  },
+  {
+    "name": "EL CARMEN DE ATRATO",
+    "id": 27245,
+    "department_id": 27
+  },
+  {
+    "name": "EL LITORAL DEL SAN JUAN",
+    "id": 27250,
+    "department_id": 27
+  },
+  {
+    "name": "ISTMINA",
+    "id": 27361,
+    "department_id": 27
+  },
+  {
+    "name": "JURADÓ",
+    "id": 27372,
+    "department_id": 27
+  },
+  {
+    "name": "LLORÓ",
+    "id": 27413,
+    "department_id": 27
+  },
+  {
+    "name": "MEDIO ATRATO",
+    "id": 27425,
+    "department_id": 27
+  },
+  {
+    "name": "MEDIO BAUDÓ",
+    "id": 27430,
+    "department_id": 27
+  },
+  {
+    "name": "MEDIO SAN JUAN",
+    "id": 27450,
+    "department_id": 27
+  },
+  {
+    "name": "NÓVITA",
+    "id": 27491,
+    "department_id": 27
+  },
+  {
+    "name": "NUQUÍ",
+    "id": 27495,
+    "department_id": 27
+  },
+  {
+    "name": "RÍO IRÓ",
+    "id": 27580,
+    "department_id": 27
+  },
+  {
+    "name": "RÍO QUITO",
+    "id": 27600,
+    "department_id": 27
+  },
+  {
+    "name": "RIOSUCIO",
+    "id": 27615,
+    "department_id": 27
+  },
+  {
+    "name": "SAN JOSÉ DEL PALMAR",
+    "id": 27660,
+    "department_id": 27
+  },
+  {
+    "name": "SIPÍ",
+    "id": 27745,
+    "department_id": 27
+  },
+  {
+    "name": "TADÓ",
+    "id": 27787,
+    "department_id": 27
+  },
+  {
+    "name": "UNGUÍA",
+    "id": 27800,
+    "department_id": 27
+  },
+  {
+    "name": "UNIÓN PANAMERICANA",
+    "id": 27810,
+    "department_id": 27
+  },
+  {
+    "name": "NEIVA",
+    "id": 41001,
+    "department_id": 41
+  },
+  {
+    "name": "ACEVEDO",
+    "id": 41006,
+    "department_id": 41
+  },
+  {
+    "name": "AGRADO",
+    "id": 41013,
+    "department_id": 41
+  },
+  {
+    "name": "AIPE",
+    "id": 41016,
+    "department_id": 41
+  },
+  {
+    "name": "ALGECIRAS",
+    "id": 41020,
+    "department_id": 41
+  },
+  {
+    "name": "ALTAMIRA",
+    "id": 41026,
+    "department_id": 41
+  },
+  {
+    "name": "BARAYA",
+    "id": 41078,
+    "department_id": 41
+  },
+  {
+    "name": "CAMPOALEGRE",
+    "id": 41132,
+    "department_id": 41
+  },
+  {
+    "name": "COLOMBIA",
+    "id": 41206,
+    "department_id": 41
+  },
+  {
+    "name": "ELÍAS",
+    "id": 41244,
+    "department_id": 41
+  },
+  {
+    "name": "GARZÓN",
+    "id": 41298,
+    "department_id": 41
+  },
+  {
+    "name": "GIGANTE",
+    "id": 41306,
+    "department_id": 41
+  },
+  {
+    "name": "GUADALUPE",
+    "id": 41319,
+    "department_id": 41
+  },
+  {
+    "name": "HOBO",
+    "id": 41349,
+    "department_id": 41
+  },
+  {
+    "name": "ÍQUIRA",
+    "id": 41357,
+    "department_id": 41
+  },
+  {
+    "name": "ISNOS",
+    "id": 41359,
+    "department_id": 41
+  },
+  {
+    "name": "LA ARGENTINA",
+    "id": 41378,
+    "department_id": 41
+  },
+  {
+    "name": "LA PLATA",
+    "id": 41396,
+    "department_id": 41
+  },
+  {
+    "name": "NÁTAGA",
+    "id": 41483,
+    "department_id": 41
+  },
+  {
+    "name": "OPORAPA",
+    "id": 41503,
+    "department_id": 41
+  },
+  {
+    "name": "PAICOL",
+    "id": 41518,
+    "department_id": 41
+  },
+  {
+    "name": "PALERMO",
+    "id": 41524,
+    "department_id": 41
+  },
+  {
+    "name": "PALESTINA",
+    "id": 41530,
+    "department_id": 41
+  },
+  {
+    "name": "PITAL",
+    "id": 41548,
+    "department_id": 41
+  },
+  {
+    "name": "PITALITO",
+    "id": 41551,
+    "department_id": 41
+  },
+  {
+    "name": "RIVERA",
+    "id": 41615,
+    "department_id": 41
+  },
+  {
+    "name": "SALADOBLANCO",
+    "id": 41660,
+    "department_id": 41
+  },
+  {
+    "name": "SAN AGUSTÍN",
+    "id": 41668,
+    "department_id": 41
+  },
+  {
+    "name": "SANTA MARÍA",
+    "id": 41676,
+    "department_id": 41
+  },
+  {
+    "name": "SUAZA",
+    "id": 41770,
+    "department_id": 41
+  },
+  {
+    "name": "TARQUI",
+    "id": 41791,
+    "department_id": 41
+  },
+  {
+    "name": "TESALIA",
+    "id": 41797,
+    "department_id": 41
+  },
+  {
+    "name": "TELLO",
+    "id": 41799,
+    "department_id": 41
+  },
+  {
+    "name": "TERUEL",
+    "id": 41801,
+    "department_id": 41
+  },
+  {
+    "name": "TIMANÁ",
+    "id": 41807,
+    "department_id": 41
+  },
+  {
+    "name": "VILLAVIEJA",
+    "id": 41872,
+    "department_id": 41
+  },
+  {
+    "name": "YAGUARÁ",
+    "id": 41885,
+    "department_id": 41
+  },
+  {
+    "name": "RIOHACHA",
+    "id": 44001,
+    "department_id": 44
+  },
+  {
+    "name": "ALBANIA",
+    "id": 44035,
+    "department_id": 44
+  },
+  {
+    "name": "BARRANCAS",
+    "id": 44078,
+    "department_id": 44
+  },
+  {
+    "name": "DIBULLA",
+    "id": 44090,
+    "department_id": 44
+  },
+  {
+    "name": "DISTRACCIÓN",
+    "id": 44098,
+    "department_id": 44
+  },
+  {
+    "name": "EL MOLINO",
+    "id": 44110,
+    "department_id": 44
+  },
+  {
+    "name": "FONSECA",
+    "id": 44279,
+    "department_id": 44
+  },
+  {
+    "name": "HATONUEVO",
+    "id": 44378,
+    "department_id": 44
+  },
+  {
+    "name": "LA JAGUA DEL PILAR",
+    "id": 44420,
+    "department_id": 44
+  },
+  {
+    "name": "MAICAO",
+    "id": 44430,
+    "department_id": 44
+  },
+  {
+    "name": "MANAURE",
+    "id": 44560,
+    "department_id": 44
+  },
+  {
+    "name": "SAN JUAN DEL CESAR",
+    "id": 44650,
+    "department_id": 44
+  },
+  {
+    "name": "URIBIA",
+    "id": 44847,
+    "department_id": 44
+  },
+  {
+    "name": "URUMITA",
+    "id": 44855,
+    "department_id": 44
+  },
+  {
+    "name": "VILLANUEVA",
+    "id": 44874,
+    "department_id": 44
+  },
+  {
+    "name": "SANTA MARTA",
+    "id": 47001,
+    "department_id": 47
+  },
+  {
+    "name": "ALGARROBO",
+    "id": 47030,
+    "department_id": 47
+  },
+  {
+    "name": "ARACATACA",
+    "id": 47053,
+    "department_id": 47
+  },
+  {
+    "name": "ARIGUANÍ",
+    "id": 47058,
+    "department_id": 47
+  },
+  {
+    "name": "CERRO DE SAN ANTONIO",
+    "id": 47161,
+    "department_id": 47
+  },
+  {
+    "name": "CHIVOLO",
+    "id": 47170,
+    "department_id": 47
+  },
+  {
+    "name": "CIÉNAGA",
+    "id": 47189,
+    "department_id": 47
+  },
+  {
+    "name": "CONCORDIA",
+    "id": 47205,
+    "department_id": 47
+  },
+  {
+    "name": "EL BANCO",
+    "id": 47245,
+    "department_id": 47
+  },
+  {
+    "name": "EL PIÑÓN",
+    "id": 47258,
+    "department_id": 47
+  },
+  {
+    "name": "EL RETÉN",
+    "id": 47268,
+    "department_id": 47
+  },
+  {
+    "name": "FUNDACIÓN",
+    "id": 47288,
+    "department_id": 47
+  },
+  {
+    "name": "GUAMAL",
+    "id": 47318,
+    "department_id": 47
+  },
+  {
+    "name": "NUEVA GRANADA",
+    "id": 47460,
+    "department_id": 47
+  },
+  {
+    "name": "PEDRAZA",
+    "id": 47541,
+    "department_id": 47
+  },
+  {
+    "name": "PIJIÑO DEL CARMEN",
+    "id": 47545,
+    "department_id": 47
+  },
+  {
+    "name": "PIVIJAY",
+    "id": 47551,
+    "department_id": 47
+  },
+  {
+    "name": "PLATO",
+    "id": 47555,
+    "department_id": 47
+  },
+  {
+    "name": "PUEBLOVIEJO",
+    "id": 47570,
+    "department_id": 47
+  },
+  {
+    "name": "REMOLINO",
+    "id": 47605,
+    "department_id": 47
+  },
+  {
+    "name": "SABANAS DE SAN ÁNGEL",
+    "id": 47660,
+    "department_id": 47
+  },
+  {
+    "name": "SALAMINA",
+    "id": 47675,
+    "department_id": 47
+  },
+  {
+    "name": "SAN SEBASTIÁN DE BUENAVISTA",
+    "id": 47692,
+    "department_id": 47
+  },
+  {
+    "name": "SAN ZENÓN",
+    "id": 47703,
+    "department_id": 47
+  },
+  {
+    "name": "SANTA ANA",
+    "id": 47707,
+    "department_id": 47
+  },
+  {
+    "name": "SANTA BÁRBARA DE PINTO",
+    "id": 47720,
+    "department_id": 47
+  },
+  {
+    "name": "SITIONUEVO",
+    "id": 47745,
+    "department_id": 47
+  },
+  {
+    "name": "TENERIFE",
+    "id": 47798,
+    "department_id": 47
+  },
+  {
+    "name": "ZAPAYÁN",
+    "id": 47960,
+    "department_id": 47
+  },
+  {
+    "name": "ZONA BANANERA",
+    "id": 47980,
+    "department_id": 47
+  },
+  {
+    "name": "VILLAVICENCIO",
+    "id": 50001,
+    "department_id": 50
+  },
+  {
+    "name": "ACACÍAS",
+    "id": 50006,
+    "department_id": 50
+  },
+  {
+    "name": "BARRANCA DE UPÍA",
+    "id": 50110,
+    "department_id": 50
+  },
+  {
+    "name": "CABUYARO",
+    "id": 50124,
+    "department_id": 50
+  },
+  {
+    "name": "CASTILLA LA NUEVA",
+    "id": 50150,
+    "department_id": 50
+  },
+  {
+    "name": "CUBARRAL",
+    "id": 50223,
+    "department_id": 50
+  },
+  {
+    "name": "CUMARAL",
+    "id": 50226,
+    "department_id": 50
+  },
+  {
+    "name": "EL CALVARIO",
+    "id": 50245,
+    "department_id": 50
+  },
+  {
+    "name": "EL CASTILLO",
+    "id": 50251,
+    "department_id": 50
+  },
+  {
+    "name": "EL DORADO",
+    "id": 50270,
+    "department_id": 50
+  },
+  {
+    "name": "FUENTE DE ORO",
+    "id": 50287,
+    "department_id": 50
+  },
+  {
+    "name": "GRANADA",
+    "id": 50313,
+    "department_id": 50
+  },
+  {
+    "name": "GUAMAL",
+    "id": 50318,
+    "department_id": 50
+  },
+  {
+    "name": "MAPIRIPÁN",
+    "id": 50325,
+    "department_id": 50
+  },
+  {
+    "name": "MESETAS",
+    "id": 50330,
+    "department_id": 50
+  },
+  {
+    "name": "LA MACARENA",
+    "id": 50350,
+    "department_id": 50
+  },
+  {
+    "name": "URIBE",
+    "id": 50370,
+    "department_id": 50
+  },
+  {
+    "name": "LEJANÍAS",
+    "id": 50400,
+    "department_id": 50
+  },
+  {
+    "name": "PUERTO CONCORDIA",
+    "id": 50450,
+    "department_id": 50
+  },
+  {
+    "name": "PUERTO GAITÁN",
+    "id": 50568,
+    "department_id": 50
+  },
+  {
+    "name": "PUERTO LÓPEZ",
+    "id": 50573,
+    "department_id": 50
+  },
+  {
+    "name": "PUERTO LLERAS",
+    "id": 50577,
+    "department_id": 50
+  },
+  {
+    "name": "PUERTO RICO",
+    "id": 50590,
+    "department_id": 50
+  },
+  {
+    "name": "RESTREPO",
+    "id": 50606,
+    "department_id": 50
+  },
+  {
+    "name": "SAN CARLOS DE GUAROA",
+    "id": 50680,
+    "department_id": 50
+  },
+  {
+    "name": "SAN JUAN DE ARAMA",
+    "id": 50683,
+    "department_id": 50
+  },
+  {
+    "name": "SAN JUANITO",
+    "id": 50686,
+    "department_id": 50
+  },
+  {
+    "name": "SAN MARTÍN",
+    "id": 50689,
+    "department_id": 50
+  },
+  {
+    "name": "VISTAHERMOSA",
+    "id": 50711,
+    "department_id": 50
+  },
+  {
+    "name": "PASTO",
+    "id": 52001,
+    "department_id": 52
+  },
+  {
+    "name": "ALBÁN",
+    "id": 52019,
+    "department_id": 52
+  },
+  {
+    "name": "ALDANA",
+    "id": 52022,
+    "department_id": 52
+  },
+  {
+    "name": "ANCUYA",
+    "id": 52036,
+    "department_id": 52
+  },
+  {
+    "name": "ARBOLEDA",
+    "id": 52051,
+    "department_id": 52
+  },
+  {
+    "name": "BARBACOAS",
+    "id": 52079,
+    "department_id": 52
+  },
+  {
+    "name": "BELÉN",
+    "id": 52083,
+    "department_id": 52
+  },
+  {
+    "name": "BUESACO",
+    "id": 52110,
+    "department_id": 52
+  },
+  {
+    "name": "COLÓN",
+    "id": 52203,
+    "department_id": 52
+  },
+  {
+    "name": "CONSACÁ",
+    "id": 52207,
+    "department_id": 52
+  },
+  {
+    "name": "CONTADERO",
+    "id": 52210,
+    "department_id": 52
+  },
+  {
+    "name": "CÓRDOBA",
+    "id": 52215,
+    "department_id": 52
+  },
+  {
+    "name": "CUASPUD CARLOSAMA",
+    "id": 52224,
+    "department_id": 52
+  },
+  {
+    "name": "CUMBAL",
+    "id": 52227,
+    "department_id": 52
+  },
+  {
+    "name": "CUMBITARA",
+    "id": 52233,
+    "department_id": 52
+  },
+  {
+    "name": "CHACHAGÜÍ",
+    "id": 52240,
+    "department_id": 52
+  },
+  {
+    "name": "EL CHARCO",
+    "id": 52250,
+    "department_id": 52
+  },
+  {
+    "name": "EL PEÑOL",
+    "id": 52254,
+    "department_id": 52
+  },
+  {
+    "name": "EL ROSARIO",
+    "id": 52256,
+    "department_id": 52
+  },
+  {
+    "name": "EL TABLÓN DE GÓMEZ",
+    "id": 52258,
+    "department_id": 52
+  },
+  {
+    "name": "EL TAMBO",
+    "id": 52260,
+    "department_id": 52
+  },
+  {
+    "name": "FUNES",
+    "id": 52287,
+    "department_id": 52
+  },
+  {
+    "name": "GUACHUCAL",
+    "id": 52317,
+    "department_id": 52
+  },
+  {
+    "name": "GUAITARILLA",
+    "id": 52320,
+    "department_id": 52
+  },
+  {
+    "name": "GUALMATÁN",
+    "id": 52323,
+    "department_id": 52
+  },
+  {
+    "name": "ILES",
+    "id": 52352,
+    "department_id": 52
+  },
+  {
+    "name": "IMUÉS",
+    "id": 52354,
+    "department_id": 52
+  },
+  {
+    "name": "IPIALES",
+    "id": 52356,
+    "department_id": 52
+  },
+  {
+    "name": "LA CRUZ",
+    "id": 52378,
+    "department_id": 52
+  },
+  {
+    "name": "LA FLORIDA",
+    "id": 52381,
+    "department_id": 52
+  },
+  {
+    "name": "LA LLANADA",
+    "id": 52385,
+    "department_id": 52
+  },
+  {
+    "name": "LA TOLA",
+    "id": 52390,
+    "department_id": 52
+  },
+  {
+    "name": "LA UNIÓN",
+    "id": 52399,
+    "department_id": 52
+  },
+  {
+    "name": "LEIVA",
+    "id": 52405,
+    "department_id": 52
+  },
+  {
+    "name": "LINARES",
+    "id": 52411,
+    "department_id": 52
+  },
+  {
+    "name": "LOS ANDES",
+    "id": 52418,
+    "department_id": 52
+  },
+  {
+    "name": "MAGÜÍ",
+    "id": 52427,
+    "department_id": 52
+  },
+  {
+    "name": "MALLAMA",
+    "id": 52435,
+    "department_id": 52
+  },
+  {
+    "name": "MOSQUERA",
+    "id": 52473,
+    "department_id": 52
+  },
+  {
+    "name": "NARIÑO",
+    "id": 52480,
+    "department_id": 52
+  },
+  {
+    "name": "OLAYA HERRERA",
+    "id": 52490,
+    "department_id": 52
+  },
+  {
+    "name": "OSPINA",
+    "id": 52506,
+    "department_id": 52
+  },
+  {
+    "name": "FRANCISCO PIZARRO",
+    "id": 52520,
+    "department_id": 52
+  },
+  {
+    "name": "POLICARPA",
+    "id": 52540,
+    "department_id": 52
+  },
+  {
+    "name": "POTOSÍ",
+    "id": 52560,
+    "department_id": 52
+  },
+  {
+    "name": "PROVIDENCIA",
+    "id": 52565,
+    "department_id": 52
+  },
+  {
+    "name": "PUERRES",
+    "id": 52573,
+    "department_id": 52
+  },
+  {
+    "name": "PUPIALES",
+    "id": 52585,
+    "department_id": 52
+  },
+  {
+    "name": "RICAURTE",
+    "id": 52612,
+    "department_id": 52
+  },
+  {
+    "name": "ROBERTO PAYÁN",
+    "id": 52621,
+    "department_id": 52
+  },
+  {
+    "name": "SAMANIEGO",
+    "id": 52678,
+    "department_id": 52
+  },
+  {
+    "name": "SANDONÁ",
+    "id": 52683,
+    "department_id": 52
+  },
+  {
+    "name": "SAN BERNARDO",
+    "id": 52685,
+    "department_id": 52
+  },
+  {
+    "name": "SAN LORENZO",
+    "id": 52687,
+    "department_id": 52
+  },
+  {
+    "name": "SAN PABLO",
+    "id": 52693,
+    "department_id": 52
+  },
+  {
+    "name": "SAN PEDRO DE CARTAGO",
+    "id": 52694,
+    "department_id": 52
+  },
+  {
+    "name": "SANTA BÁRBARA",
+    "id": 52696,
+    "department_id": 52
+  },
+  {
+    "name": "SANTACRUZ",
+    "id": 52699,
+    "department_id": 52
+  },
+  {
+    "name": "SAPUYES",
+    "id": 52720,
+    "department_id": 52
+  },
+  {
+    "name": "TAMINANGO",
+    "id": 52786,
+    "department_id": 52
+  },
+  {
+    "name": "TANGUA",
+    "id": 52788,
+    "department_id": 52
+  },
+  {
+    "name": "SAN ANDRÉS DE TUMACO",
+    "id": 52835,
+    "department_id": 52
+  },
+  {
+    "name": "TÚQUERRES",
+    "id": 52838,
+    "department_id": 52
+  },
+  {
+    "name": "YACUANQUER",
+    "id": 52885,
+    "department_id": 52
+  },
+  {
+    "name": "SAN JOSÉ DE CÚCUTA",
+    "id": 54001,
+    "department_id": 54
+  },
+  {
+    "name": "ÁBREGO",
+    "id": 54003,
+    "department_id": 54
+  },
+  {
+    "name": "ARBOLEDAS",
+    "id": 54051,
+    "department_id": 54
+  },
+  {
+    "name": "BOCHALEMA",
+    "id": 54099,
+    "department_id": 54
+  },
+  {
+    "name": "BUCARASICA",
+    "id": 54109,
+    "department_id": 54
+  },
+  {
+    "name": "CÁCOTA",
+    "id": 54125,
+    "department_id": 54
+  },
+  {
+    "name": "CÁCHIRA",
+    "id": 54128,
+    "department_id": 54
+  },
+  {
+    "name": "CHINÁCOTA",
+    "id": 54172,
+    "department_id": 54
+  },
+  {
+    "name": "CHITAGÁ",
+    "id": 54174,
+    "department_id": 54
+  },
+  {
+    "name": "CONVENCIÓN",
+    "id": 54206,
+    "department_id": 54
+  },
+  {
+    "name": "CUCUTILLA",
+    "id": 54223,
+    "department_id": 54
+  },
+  {
+    "name": "DURANIA",
+    "id": 54239,
+    "department_id": 54
+  },
+  {
+    "name": "EL CARMEN",
+    "id": 54245,
+    "department_id": 54
+  },
+  {
+    "name": "EL TARRA",
+    "id": 54250,
+    "department_id": 54
+  },
+  {
+    "name": "EL ZULIA",
+    "id": 54261,
+    "department_id": 54
+  },
+  {
+    "name": "GRAMALOTE",
+    "id": 54313,
+    "department_id": 54
+  },
+  {
+    "name": "HACARÍ",
+    "id": 54344,
+    "department_id": 54
+  },
+  {
+    "name": "HERRÁN",
+    "id": 54347,
+    "department_id": 54
+  },
+  {
+    "name": "LABATECA",
+    "id": 54377,
+    "department_id": 54
+  },
+  {
+    "name": "LA ESPERANZA",
+    "id": 54385,
+    "department_id": 54
+  },
+  {
+    "name": "LA PLAYA",
+    "id": 54398,
+    "department_id": 54
+  },
+  {
+    "name": "LOS PATIOS",
+    "id": 54405,
+    "department_id": 54
+  },
+  {
+    "name": "LOURDES",
+    "id": 54418,
+    "department_id": 54
+  },
+  {
+    "name": "MUTISCUA",
+    "id": 54480,
+    "department_id": 54
+  },
+  {
+    "name": "OCAÑA",
+    "id": 54498,
+    "department_id": 54
+  },
+  {
+    "name": "PAMPLONA",
+    "id": 54518,
+    "department_id": 54
+  },
+  {
+    "name": "PAMPLONITA",
+    "id": 54520,
+    "department_id": 54
+  },
+  {
+    "name": "PUERTO SANTANDER",
+    "id": 54553,
+    "department_id": 54
+  },
+  {
+    "name": "RAGONVALIA",
+    "id": 54599,
+    "department_id": 54
+  },
+  {
+    "name": "SALAZAR",
+    "id": 54660,
+    "department_id": 54
+  },
+  {
+    "name": "SAN CALIXTO",
+    "id": 54670,
+    "department_id": 54
+  },
+  {
+    "name": "SAN CAYETANO",
+    "id": 54673,
+    "department_id": 54
+  },
+  {
+    "name": "SANTIAGO",
+    "id": 54680,
+    "department_id": 54
+  },
+  {
+    "name": "SARDINATA",
+    "id": 54720,
+    "department_id": 54
+  },
+  {
+    "name": "SILOS",
+    "id": 54743,
+    "department_id": 54
+  },
+  {
+    "name": "TEORAMA",
+    "id": 54800,
+    "department_id": 54
+  },
+  {
+    "name": "TIBÚ",
+    "id": 54810,
+    "department_id": 54
+  },
+  {
+    "name": "TOLEDO",
+    "id": 54820,
+    "department_id": 54
+  },
+  {
+    "name": "VILLA CARO",
+    "id": 54871,
+    "department_id": 54
+  },
+  {
+    "name": "VILLA DEL ROSARIO",
+    "id": 54874,
+    "department_id": 54
+  },
+  {
+    "name": "ARMENIA",
+    "id": 63001,
+    "department_id": 63
+  },
+  {
+    "name": "BUENAVISTA",
+    "id": 63111,
+    "department_id": 63
+  },
+  {
+    "name": "CALARCÁ",
+    "id": 63130,
+    "department_id": 63
+  },
+  {
+    "name": "CIRCASIA",
+    "id": 63190,
+    "department_id": 63
+  },
+  {
+    "name": "CÓRDOBA",
+    "id": 63212,
+    "department_id": 63
+  },
+  {
+    "name": "FILANDIA",
+    "id": 63272,
+    "department_id": 63
+  },
+  {
+    "name": "GÉNOVA",
+    "id": 63302,
+    "department_id": 63
+  },
+  {
+    "name": "LA TEBAIDA",
+    "id": 63401,
+    "department_id": 63
+  },
+  {
+    "name": "MONTENEGRO",
+    "id": 63470,
+    "department_id": 63
+  },
+  {
+    "name": "PIJAO",
+    "id": 63548,
+    "department_id": 63
+  },
+  {
+    "name": "QUIMBAYA",
+    "id": 63594,
+    "department_id": 63
+  },
+  {
+    "name": "SALENTO",
+    "id": 63690,
+    "department_id": 63
+  },
+  {
+    "name": "PEREIRA",
+    "id": 66001,
+    "department_id": 66
+  },
+  {
+    "name": "APÍA",
+    "id": 66045,
+    "department_id": 66
+  },
+  {
+    "name": "BALBOA",
+    "id": 66075,
+    "department_id": 66
+  },
+  {
+    "name": "BELÉN DE UMBRÍA",
+    "id": 66088,
+    "department_id": 66
+  },
+  {
+    "name": "DOSQUEBRADAS",
+    "id": 66170,
+    "department_id": 66
+  },
+  {
+    "name": "GUÁTICA",
+    "id": 66318,
+    "department_id": 66
+  },
+  {
+    "name": "LA CELIA",
+    "id": 66383,
+    "department_id": 66
+  },
+  {
+    "name": "LA VIRGINIA",
+    "id": 66400,
+    "department_id": 66
+  },
+  {
+    "name": "MARSELLA",
+    "id": 66440,
+    "department_id": 66
+  },
+  {
+    "name": "MISTRATÓ",
+    "id": 66456,
+    "department_id": 66
+  },
+  {
+    "name": "PUEBLO RICO",
+    "id": 66572,
+    "department_id": 66
+  },
+  {
+    "name": "QUINCHÍA",
+    "id": 66594,
+    "department_id": 66
+  },
+  {
+    "name": "SANTA ROSA DE CABAL",
+    "id": 66682,
+    "department_id": 66
+  },
+  {
+    "name": "SANTUARIO",
+    "id": 66687,
+    "department_id": 66
+  },
+  {
+    "name": "BUCARAMANGA",
+    "id": 68001,
+    "department_id": 68
+  },
+  {
+    "name": "AGUADA",
+    "id": 68013,
+    "department_id": 68
+  },
+  {
+    "name": "ALBANIA",
+    "id": 68020,
+    "department_id": 68
+  },
+  {
+    "name": "ARATOCA",
+    "id": 68051,
+    "department_id": 68
+  },
+  {
+    "name": "BARBOSA",
+    "id": 68077,
+    "department_id": 68
+  },
+  {
+    "name": "BARICHARA",
+    "id": 68079,
+    "department_id": 68
+  },
+  {
+    "name": "BARRANCABERMEJA",
+    "id": 68081,
+    "department_id": 68
+  },
+  {
+    "name": "BETULIA",
+    "id": 68092,
+    "department_id": 68
+  },
+  {
+    "name": "BOLÍVAR",
+    "id": 68101,
+    "department_id": 68
+  },
+  {
+    "name": "CABRERA",
+    "id": 68121,
+    "department_id": 68
+  },
+  {
+    "name": "CALIFORNIA",
+    "id": 68132,
+    "department_id": 68
+  },
+  {
+    "name": "CAPITANEJO",
+    "id": 68147,
+    "department_id": 68
+  },
+  {
+    "name": "CARCASÍ",
+    "id": 68152,
+    "department_id": 68
+  },
+  {
+    "name": "CEPITÁ",
+    "id": 68160,
+    "department_id": 68
+  },
+  {
+    "name": "CERRITO",
+    "id": 68162,
+    "department_id": 68
+  },
+  {
+    "name": "CHARALÁ",
+    "id": 68167,
+    "department_id": 68
+  },
+  {
+    "name": "CHARTA",
+    "id": 68169,
+    "department_id": 68
+  },
+  {
+    "name": "CHIMA",
+    "id": 68176,
+    "department_id": 68
+  },
+  {
+    "name": "CHIPATÁ",
+    "id": 68179,
+    "department_id": 68
+  },
+  {
+    "name": "CIMITARRA",
+    "id": 68190,
+    "department_id": 68
+  },
+  {
+    "name": "CONCEPCIÓN",
+    "id": 68207,
+    "department_id": 68
+  },
+  {
+    "name": "CONFINES",
+    "id": 68209,
+    "department_id": 68
+  },
+  {
+    "name": "CONTRATACIÓN",
+    "id": 68211,
+    "department_id": 68
+  },
+  {
+    "name": "COROMORO",
+    "id": 68217,
+    "department_id": 68
+  },
+  {
+    "name": "CURITÍ",
+    "id": 68229,
+    "department_id": 68
+  },
+  {
+    "name": "EL CARMEN DE CHUCURI",
+    "id": 68235,
+    "department_id": 68
+  },
+  {
+    "name": "EL GUACAMAYO",
+    "id": 68245,
+    "department_id": 68
+  },
+  {
+    "name": "EL PEÑÓN",
+    "id": 68250,
+    "department_id": 68
+  },
+  {
+    "name": "EL PLAYÓN",
+    "id": 68255,
+    "department_id": 68
+  },
+  {
+    "name": "ENCINO",
+    "id": 68264,
+    "department_id": 68
+  },
+  {
+    "name": "ENCISO",
+    "id": 68266,
+    "department_id": 68
+  },
+  {
+    "name": "FLORIÁN",
+    "id": 68271,
+    "department_id": 68
+  },
+  {
+    "name": "FLORIDABLANCA",
+    "id": 68276,
+    "department_id": 68
+  },
+  {
+    "name": "GALÁN",
+    "id": 68296,
+    "department_id": 68
+  },
+  {
+    "name": "GÁMBITA",
+    "id": 68298,
+    "department_id": 68
+  },
+  {
+    "name": "GIRÓN",
+    "id": 68307,
+    "department_id": 68
+  },
+  {
+    "name": "GUACA",
+    "id": 68318,
+    "department_id": 68
+  },
+  {
+    "name": "GUADALUPE",
+    "id": 68320,
+    "department_id": 68
+  },
+  {
+    "name": "GUAPOTÁ",
+    "id": 68322,
+    "department_id": 68
+  },
+  {
+    "name": "GUAVATÁ",
+    "id": 68324,
+    "department_id": 68
+  },
+  {
+    "name": "GÜEPSA",
+    "id": 68327,
+    "department_id": 68
+  },
+  {
+    "name": "HATO",
+    "id": 68344,
+    "department_id": 68
+  },
+  {
+    "name": "JESÚS MARÍA",
+    "id": 68368,
+    "department_id": 68
+  },
+  {
+    "name": "JORDÁN",
+    "id": 68370,
+    "department_id": 68
+  },
+  {
+    "name": "LA BELLEZA",
+    "id": 68377,
+    "department_id": 68
+  },
+  {
+    "name": "LANDÁZURI",
+    "id": 68385,
+    "department_id": 68
+  },
+  {
+    "name": "LA PAZ",
+    "id": 68397,
+    "department_id": 68
+  },
+  {
+    "name": "LEBRIJA",
+    "id": 68406,
+    "department_id": 68
+  },
+  {
+    "name": "LOS SANTOS",
+    "id": 68418,
+    "department_id": 68
+  },
+  {
+    "name": "MACARAVITA",
+    "id": 68425,
+    "department_id": 68
+  },
+  {
+    "name": "MÁLAGA",
+    "id": 68432,
+    "department_id": 68
+  },
+  {
+    "name": "MATANZA",
+    "id": 68444,
+    "department_id": 68
+  },
+  {
+    "name": "MOGOTES",
+    "id": 68464,
+    "department_id": 68
+  },
+  {
+    "name": "MOLAGAVITA",
+    "id": 68468,
+    "department_id": 68
+  },
+  {
+    "name": "OCAMONTE",
+    "id": 68498,
+    "department_id": 68
+  },
+  {
+    "name": "OIBA",
+    "id": 68500,
+    "department_id": 68
+  },
+  {
+    "name": "ONZAGA",
+    "id": 68502,
+    "department_id": 68
+  },
+  {
+    "name": "PALMAR",
+    "id": 68522,
+    "department_id": 68
+  },
+  {
+    "name": "PALMAS DEL SOCORRO",
+    "id": 68524,
+    "department_id": 68
+  },
+  {
+    "name": "PÁRAMO",
+    "id": 68533,
+    "department_id": 68
+  },
+  {
+    "name": "PIEDECUESTA",
+    "id": 68547,
+    "department_id": 68
+  },
+  {
+    "name": "PINCHOTE",
+    "id": 68549,
+    "department_id": 68
+  },
+  {
+    "name": "PUENTE NACIONAL",
+    "id": 68572,
+    "department_id": 68
+  },
+  {
+    "name": "PUERTO PARRA",
+    "id": 68573,
+    "department_id": 68
+  },
+  {
+    "name": "PUERTO WILCHES",
+    "id": 68575,
+    "department_id": 68
+  },
+  {
+    "name": "RIONEGRO",
+    "id": 68615,
+    "department_id": 68
+  },
+  {
+    "name": "SABANA DE TORRES",
+    "id": 68655,
+    "department_id": 68
+  },
+  {
+    "name": "SAN ANDRÉS",
+    "id": 68669,
+    "department_id": 68
+  },
+  {
+    "name": "SAN BENITO",
+    "id": 68673,
+    "department_id": 68
+  },
+  {
+    "name": "SAN GIL",
+    "id": 68679,
+    "department_id": 68
+  },
+  {
+    "name": "SAN JOAQUÍN",
+    "id": 68682,
+    "department_id": 68
+  },
+  {
+    "name": "SAN JOSÉ DE MIRANDA",
+    "id": 68684,
+    "department_id": 68
+  },
+  {
+    "name": "SAN MIGUEL",
+    "id": 68686,
+    "department_id": 68
+  },
+  {
+    "name": "SAN VICENTE DE CHUCURÍ",
+    "id": 68689,
+    "department_id": 68
+  },
+  {
+    "name": "SANTA BÁRBARA",
+    "id": 68705,
+    "department_id": 68
+  },
+  {
+    "name": "SANTA HELENA DEL OPÓN",
+    "id": 68720,
+    "department_id": 68
+  },
+  {
+    "name": "SIMACOTA",
+    "id": 68745,
+    "department_id": 68
+  },
+  {
+    "name": "SOCORRO",
+    "id": 68755,
+    "department_id": 68
+  },
+  {
+    "name": "SUAITA",
+    "id": 68770,
+    "department_id": 68
+  },
+  {
+    "name": "SUCRE",
+    "id": 68773,
+    "department_id": 68
+  },
+  {
+    "name": "SURATÁ",
+    "id": 68780,
+    "department_id": 68
+  },
+  {
+    "name": "TONA",
+    "id": 68820,
+    "department_id": 68
+  },
+  {
+    "name": "VALLE DE SAN JOSÉ",
+    "id": 68855,
+    "department_id": 68
+  },
+  {
+    "name": "VÉLEZ",
+    "id": 68861,
+    "department_id": 68
+  },
+  {
+    "name": "VETAS",
+    "id": 68867,
+    "department_id": 68
+  },
+  {
+    "name": "VILLANUEVA",
+    "id": 68872,
+    "department_id": 68
+  },
+  {
+    "name": "ZAPATOCA",
+    "id": 68895,
+    "department_id": 68
+  },
+  {
+    "name": "SINCELEJO",
+    "id": 70001,
+    "department_id": 70
+  },
+  {
+    "name": "BUENAVISTA",
+    "id": 70110,
+    "department_id": 70
+  },
+  {
+    "name": "CAIMITO",
+    "id": 70124,
+    "department_id": 70
+  },
+  {
+    "name": "COLOSÓ",
+    "id": 70204,
+    "department_id": 70
+  },
+  {
+    "name": "COROZAL",
+    "id": 70215,
+    "department_id": 70
+  },
+  {
+    "name": "COVEÑAS",
+    "id": 70221,
+    "department_id": 70
+  },
+  {
+    "name": "CHALÁN",
+    "id": 70230,
+    "department_id": 70
+  },
+  {
+    "name": "EL ROBLE",
+    "id": 70233,
+    "department_id": 70
+  },
+  {
+    "name": "GALERAS",
+    "id": 70235,
+    "department_id": 70
+  },
+  {
+    "name": "GUARANDA",
+    "id": 70265,
+    "department_id": 70
+  },
+  {
+    "name": "LA UNIÓN",
+    "id": 70400,
+    "department_id": 70
+  },
+  {
+    "name": "LOS PALMITOS",
+    "id": 70418,
+    "department_id": 70
+  },
+  {
+    "name": "MAJAGUAL",
+    "id": 70429,
+    "department_id": 70
+  },
+  {
+    "name": "MORROA",
+    "id": 70473,
+    "department_id": 70
+  },
+  {
+    "name": "OVEJAS",
+    "id": 70508,
+    "department_id": 70
+  },
+  {
+    "name": "PALMITO",
+    "id": 70523,
+    "department_id": 70
+  },
+  {
+    "name": "SAMPUÉS",
+    "id": 70670,
+    "department_id": 70
+  },
+  {
+    "name": "SAN BENITO ABAD",
+    "id": 70678,
+    "department_id": 70
+  },
+  {
+    "name": "SAN JUAN DE BETULIA",
+    "id": 70702,
+    "department_id": 70
+  },
+  {
+    "name": "SAN MARCOS",
+    "id": 70708,
+    "department_id": 70
+  },
+  {
+    "name": "SAN ONOFRE",
+    "id": 70713,
+    "department_id": 70
+  },
+  {
+    "name": "SAN PEDRO",
+    "id": 70717,
+    "department_id": 70
+  },
+  {
+    "name": "SAN LUIS DE SINCÉ",
+    "id": 70742,
+    "department_id": 70
+  },
+  {
+    "name": "SUCRE",
+    "id": 70771,
+    "department_id": 70
+  },
+  {
+    "name": "SANTIAGO DE TOLÚ",
+    "id": 70820,
+    "department_id": 70
+  },
+  {
+    "name": "SAN JOSÉ DE TOLUVIEJO",
+    "id": 70823,
+    "department_id": 70
+  },
+  {
+    "name": "IBAGUÉ",
+    "id": 73001,
+    "department_id": 73
+  },
+  {
+    "name": "ALPUJARRA",
+    "id": 73024,
+    "department_id": 73
+  },
+  {
+    "name": "ALVARADO",
+    "id": 73026,
+    "department_id": 73
+  },
+  {
+    "name": "AMBALEMA",
+    "id": 73030,
+    "department_id": 73
+  },
+  {
+    "name": "ANZOÁTEGUI",
+    "id": 73043,
+    "department_id": 73
+  },
+  {
+    "name": "ARMERO",
+    "id": 73055,
+    "department_id": 73
+  },
+  {
+    "name": "ATACO",
+    "id": 73067,
+    "department_id": 73
+  },
+  {
+    "name": "CAJAMARCA",
+    "id": 73124,
+    "department_id": 73
+  },
+  {
+    "name": "CARMEN DE APICALÁ",
+    "id": 73148,
+    "department_id": 73
+  },
+  {
+    "name": "CASABIANCA",
+    "id": 73152,
+    "department_id": 73
+  },
+  {
+    "name": "CHAPARRAL",
+    "id": 73168,
+    "department_id": 73
+  },
+  {
+    "name": "COELLO",
+    "id": 73200,
+    "department_id": 73
+  },
+  {
+    "name": "COYAIMA",
+    "id": 73217,
+    "department_id": 73
+  },
+  {
+    "name": "CUNDAY",
+    "id": 73226,
+    "department_id": 73
+  },
+  {
+    "name": "DOLORES",
+    "id": 73236,
+    "department_id": 73
+  },
+  {
+    "name": "ESPINAL",
+    "id": 73268,
+    "department_id": 73
+  },
+  {
+    "name": "FALAN",
+    "id": 73270,
+    "department_id": 73
+  },
+  {
+    "name": "FLANDES",
+    "id": 73275,
+    "department_id": 73
+  },
+  {
+    "name": "FRESNO",
+    "id": 73283,
+    "department_id": 73
+  },
+  {
+    "name": "GUAMO",
+    "id": 73319,
+    "department_id": 73
+  },
+  {
+    "name": "HERVEO",
+    "id": 73347,
+    "department_id": 73
+  },
+  {
+    "name": "HONDA",
+    "id": 73349,
+    "department_id": 73
+  },
+  {
+    "name": "ICONONZO",
+    "id": 73352,
+    "department_id": 73
+  },
+  {
+    "name": "LÉRIDA",
+    "id": 73408,
+    "department_id": 73
+  },
+  {
+    "name": "LÍBANO",
+    "id": 73411,
+    "department_id": 73
+  },
+  {
+    "name": "SAN SEBASTIÁN DE MARIQUITA",
+    "id": 73443,
+    "department_id": 73
+  },
+  {
+    "name": "MELGAR",
+    "id": 73449,
+    "department_id": 73
+  },
+  {
+    "name": "MURILLO",
+    "id": 73461,
+    "department_id": 73
+  },
+  {
+    "name": "NATAGAIMA",
+    "id": 73483,
+    "department_id": 73
+  },
+  {
+    "name": "ORTEGA",
+    "id": 73504,
+    "department_id": 73
+  },
+  {
+    "name": "PALOCABILDO",
+    "id": 73520,
+    "department_id": 73
+  },
+  {
+    "name": "PIEDRAS",
+    "id": 73547,
+    "department_id": 73
+  },
+  {
+    "name": "PLANADAS",
+    "id": 73555,
+    "department_id": 73
+  },
+  {
+    "name": "PRADO",
+    "id": 73563,
+    "department_id": 73
+  },
+  {
+    "name": "PURIFICACIÓN",
+    "id": 73585,
+    "department_id": 73
+  },
+  {
+    "name": "RIOBLANCO",
+    "id": 73616,
+    "department_id": 73
+  },
+  {
+    "name": "RONCESVALLES",
+    "id": 73622,
+    "department_id": 73
+  },
+  {
+    "name": "ROVIRA",
+    "id": 73624,
+    "department_id": 73
+  },
+  {
+    "name": "SALDAÑA",
+    "id": 73671,
+    "department_id": 73
+  },
+  {
+    "name": "SAN ANTONIO",
+    "id": 73675,
+    "department_id": 73
+  },
+  {
+    "name": "SAN LUIS",
+    "id": 73678,
+    "department_id": 73
+  },
+  {
+    "name": "SANTA ISABEL",
+    "id": 73686,
+    "department_id": 73
+  },
+  {
+    "name": "SUÁREZ",
+    "id": 73770,
+    "department_id": 73
+  },
+  {
+    "name": "VALLE DE SAN JUAN",
+    "id": 73854,
+    "department_id": 73
+  },
+  {
+    "name": "VENADILLO",
+    "id": 73861,
+    "department_id": 73
+  },
+  {
+    "name": "VILLAHERMOSA",
+    "id": 73870,
+    "department_id": 73
+  },
+  {
+    "name": "VILLARRICA",
+    "id": 73873,
+    "department_id": 73
+  },
+  {
+    "name": "CALI",
+    "id": 76001,
+    "department_id": 76
+  },
+  {
+    "name": "ALCALÁ",
+    "id": 76020,
+    "department_id": 76
+  },
+  {
+    "name": "ANDALUCÍA",
+    "id": 76036,
+    "department_id": 76
+  },
+  {
+    "name": "ANSERMANUEVO",
+    "id": 76041,
+    "department_id": 76
+  },
+  {
+    "name": "ARGELIA",
+    "id": 76054,
+    "department_id": 76
+  },
+  {
+    "name": "BOLÍVAR",
+    "id": 76100,
+    "department_id": 76
+  },
+  {
+    "name": "BUENAVENTURA",
+    "id": 76109,
+    "department_id": 76
+  },
+  {
+    "name": "GUADALAJARA DE BUGA",
+    "id": 76111,
+    "department_id": 76
+  },
+  {
+    "name": "BUGALAGRANDE",
+    "id": 76113,
+    "department_id": 76
+  },
+  {
+    "name": "CAICEDONIA",
+    "id": 76122,
+    "department_id": 76
+  },
+  {
+    "name": "CALIMA",
+    "id": 76126,
+    "department_id": 76
+  },
+  {
+    "name": "CANDELARIA",
+    "id": 76130,
+    "department_id": 76
+  },
+  {
+    "name": "CARTAGO",
+    "id": 76147,
+    "department_id": 76
+  },
+  {
+    "name": "DAGUA",
+    "id": 76233,
+    "department_id": 76
+  },
+  {
+    "name": "EL ÁGUILA",
+    "id": 76243,
+    "department_id": 76
+  },
+  {
+    "name": "EL CAIRO",
+    "id": 76246,
+    "department_id": 76
+  },
+  {
+    "name": "EL CERRITO",
+    "id": 76248,
+    "department_id": 76
+  },
+  {
+    "name": "EL DOVIO",
+    "id": 76250,
+    "department_id": 76
+  },
+  {
+    "name": "FLORIDA",
+    "id": 76275,
+    "department_id": 76
+  },
+  {
+    "name": "GINEBRA",
+    "id": 76306,
+    "department_id": 76
+  },
+  {
+    "name": "GUACARÍ",
+    "id": 76318,
+    "department_id": 76
+  },
+  {
+    "name": "JAMUNDÍ",
+    "id": 76364,
+    "department_id": 76
+  },
+  {
+    "name": "LA CUMBRE",
+    "id": 76377,
+    "department_id": 76
+  },
+  {
+    "name": "LA UNIÓN",
+    "id": 76400,
+    "department_id": 76
+  },
+  {
+    "name": "LA VICTORIA",
+    "id": 76403,
+    "department_id": 76
+  },
+  {
+    "name": "OBANDO",
+    "id": 76497,
+    "department_id": 76
+  },
+  {
+    "name": "PALMIRA",
+    "id": 76520,
+    "department_id": 76
+  },
+  {
+    "name": "PRADERA",
+    "id": 76563,
+    "department_id": 76
+  },
+  {
+    "name": "RESTREPO",
+    "id": 76606,
+    "department_id": 76
+  },
+  {
+    "name": "RIOFRÍO",
+    "id": 76616,
+    "department_id": 76
+  },
+  {
+    "name": "ROLDANILLO",
+    "id": 76622,
+    "department_id": 76
+  },
+  {
+    "name": "SAN PEDRO",
+    "id": 76670,
+    "department_id": 76
+  },
+  {
+    "name": "SEVILLA",
+    "id": 76736,
+    "department_id": 76
+  },
+  {
+    "name": "TORO",
+    "id": 76823,
+    "department_id": 76
+  },
+  {
+    "name": "TRUJILLO",
+    "id": 76828,
+    "department_id": 76
+  },
+  {
+    "name": "TULUÁ",
+    "id": 76834,
+    "department_id": 76
+  },
+  {
+    "name": "ULLOA",
+    "id": 76845,
+    "department_id": 76
+  },
+  {
+    "name": "VERSALLES",
+    "id": 76863,
+    "department_id": 76
+  },
+  {
+    "name": "VIJES",
+    "id": 76869,
+    "department_id": 76
+  },
+  {
+    "name": "YOTOCO",
+    "id": 76890,
+    "department_id": 76
+  },
+  {
+    "name": "YUMBO",
+    "id": 76892,
+    "department_id": 76
+  },
+  {
+    "name": "ZARZAL",
+    "id": 76895,
+    "department_id": 76
+  },
+  {
+    "name": "ARAUCA",
+    "id": 81001,
+    "department_id": 81
+  },
+  {
+    "name": "ARAUQUITA",
+    "id": 81065,
+    "department_id": 81
+  },
+  {
+    "name": "CRAVO NORTE",
+    "id": 81220,
+    "department_id": 81
+  },
+  {
+    "name": "FORTUL",
+    "id": 81300,
+    "department_id": 81
+  },
+  {
+    "name": "PUERTO RONDÓN",
+    "id": 81591,
+    "department_id": 81
+  },
+  {
+    "name": "SARAVENA",
+    "id": 81736,
+    "department_id": 81
+  },
+  {
+    "name": "TAME",
+    "id": 81794,
+    "department_id": 81
+  },
+  {
+    "name": "YOPAL",
+    "id": 85001,
+    "department_id": 85
+  },
+  {
+    "name": "AGUAZUL",
+    "id": 85010,
+    "department_id": 85
+  },
+  {
+    "name": "CHÁMEZA",
+    "id": 85015,
+    "department_id": 85
+  },
+  {
+    "name": "HATO COROZAL",
+    "id": 85125,
+    "department_id": 85
+  },
+  {
+    "name": "LA SALINA",
+    "id": 85136,
+    "department_id": 85
+  },
+  {
+    "name": "MANÍ",
+    "id": 85139,
+    "department_id": 85
+  },
+  {
+    "name": "MONTERREY",
+    "id": 85162,
+    "department_id": 85
+  },
+  {
+    "name": "NUNCHÍA",
+    "id": 85225,
+    "department_id": 85
+  },
+  {
+    "name": "OROCUÉ",
+    "id": 85230,
+    "department_id": 85
+  },
+  {
+    "name": "PAZ DE ARIPORO",
+    "id": 85250,
+    "department_id": 85
+  },
+  {
+    "name": "PORE",
+    "id": 85263,
+    "department_id": 85
+  },
+  {
+    "name": "RECETOR",
+    "id": 85279,
+    "department_id": 85
+  },
+  {
+    "name": "SABANALARGA",
+    "id": 85300,
+    "department_id": 85
+  },
+  {
+    "name": "SÁCAMA",
+    "id": 85315,
+    "department_id": 85
+  },
+  {
+    "name": "SAN LUIS DE PALENQUE",
+    "id": 85325,
+    "department_id": 85
+  },
+  {
+    "name": "TÁMARA",
+    "id": 85400,
+    "department_id": 85
+  },
+  {
+    "name": "TAURAMENA",
+    "id": 85410,
+    "department_id": 85
+  },
+  {
+    "name": "TRINIDAD",
+    "id": 85430,
+    "department_id": 85
+  },
+  {
+    "name": "VILLANUEVA",
+    "id": 85440,
+    "department_id": 85
+  },
+  {
+    "name": "MOCOA",
+    "id": 86001,
+    "department_id": 86
+  },
+  {
+    "name": "COLÓN",
+    "id": 86219,
+    "department_id": 86
+  },
+  {
+    "name": "ORITO",
+    "id": 86320,
+    "department_id": 86
+  },
+  {
+    "name": "PUERTO ASÍS",
+    "id": 86568,
+    "department_id": 86
+  },
+  {
+    "name": "PUERTO CAICEDO",
+    "id": 86569,
+    "department_id": 86
+  },
+  {
+    "name": "PUERTO GUZMÁN",
+    "id": 86571,
+    "department_id": 86
+  },
+  {
+    "name": "PUERTO LEGUÍZAMO",
+    "id": 86573,
+    "department_id": 86
+  },
+  {
+    "name": "SIBUNDOY",
+    "id": 86749,
+    "department_id": 86
+  },
+  {
+    "name": "SAN FRANCISCO",
+    "id": 86755,
+    "department_id": 86
+  },
+  {
+    "name": "SAN MIGUEL",
+    "id": 86757,
+    "department_id": 86
+  },
+  {
+    "name": "SANTIAGO",
+    "id": 86760,
+    "department_id": 86
+  },
+  {
+    "name": "VALLE DEL GUAMUEZ",
+    "id": 86865,
+    "department_id": 86
+  },
+  {
+    "name": "VILLAGARZÓN",
+    "id": 86885,
+    "department_id": 86
+  },
+  {
+    "name": "SAN ANDRÉS",
+    "id": 88001,
+    "department_id": 88
+  },
+  {
+    "name": "PROVIDENCIA",
+    "id": 88564,
+    "department_id": 88
+  },
+  {
+    "name": "LETICIA",
+    "id": 91001,
+    "department_id": 91
+  },
+  {
+    "name": "EL ENCANTO",
+    "id": 91263,
+    "department_id": 91
+  },
+  {
+    "name": "LA CHORRERA",
+    "id": 91405,
+    "department_id": 91
+  },
+  {
+    "name": "LA PEDRERA",
+    "id": 91407,
+    "department_id": 91
+  },
+  {
+    "name": "LA VICTORIA",
+    "id": 91430,
+    "department_id": 91
+  },
+  {
+    "name": "MIRITÍ - PARANÁ",
+    "id": 91460,
+    "department_id": 91
+  },
+  {
+    "name": "PUERTO ALEGRÍA",
+    "id": 91530,
+    "department_id": 91
+  },
+  {
+    "name": "PUERTO ARICA",
+    "id": 91536,
+    "department_id": 91
+  },
+  {
+    "name": "PUERTO NARIÑO",
+    "id": 91540,
+    "department_id": 91
+  },
+  {
+    "name": "PUERTO SANTANDER",
+    "id": 91669,
+    "department_id": 91
+  },
+  {
+    "name": "TARAPACÁ",
+    "id": 91798,
+    "department_id": 91
+  },
+  {
+    "name": "INÍRIDA",
+    "id": 94001,
+    "department_id": 94
+  },
+  {
+    "name": "BARRANCOMINAS*",
+    "id": 94343,
+    "department_id": 94
+  },
+  {
+    "name": "SAN FELIPE",
+    "id": 94883,
+    "department_id": 94
+  },
+  {
+    "name": "PUERTO COLOMBIA",
+    "id": 94884,
+    "department_id": 94
+  },
+  {
+    "name": "LA GUADALUPE",
+    "id": 94885,
+    "department_id": 94
+  },
+  {
+    "name": "CACAHUAL",
+    "id": 94886,
+    "department_id": 94
+  },
+  {
+    "name": "PANA PANA",
+    "id": 94887,
+    "department_id": 94
+  },
+  {
+    "name": "MORICHAL",
+    "id": 94888,
+    "department_id": 94
+  },
+  {
+    "name": "SAN JOSÉ DEL GUAVIARE",
+    "id": 95001,
+    "department_id": 95
+  },
+  {
+    "name": "CALAMAR",
+    "id": 95015,
+    "department_id": 95
+  },
+  {
+    "name": "EL RETORNO",
+    "id": 95025,
+    "department_id": 95
+  },
+  {
+    "name": "MIRAFLORES",
+    "id": 95200,
+    "department_id": 95
+  },
+  {
+    "name": "MITÚ",
+    "id": 97001,
+    "department_id": 97
+  },
+  {
+    "name": "CARURÚ",
+    "id": 97161,
+    "department_id": 97
+  },
+  {
+    "name": "PACOA",
+    "id": 97511,
+    "department_id": 97
+  },
+  {
+    "name": "TARAIRA",
+    "id": 97666,
+    "department_id": 97
+  },
+  {
+    "name": "PAPUNAHUA",
+    "id": 97777,
+    "department_id": 97
+  },
+  {
+    "name": "YAVARATÉ",
+    "id": 97889,
+    "department_id": 97
+  },
+  {
+    "name": "PUERTO CARREÑO",
+    "id": 99001,
+    "department_id": 99
+  },
+  {
+    "name": "LA PRIMAVERA",
+    "id": 99524,
+    "department_id": 99
+  },
+  {
+    "name": "SANTA ROSALÍA",
+    "id": 99624,
+    "department_id": 99
+  },
+  {
+    "name": "CUMARIBO",
+    "id": 99773,
+    "department_id": 99
+  }
+]

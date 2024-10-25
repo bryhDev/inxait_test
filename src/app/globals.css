@@ -7,15 +7,29 @@
   --foreground: #171717;
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
-}
-
 body {
   color: var(--foreground);
   background: var(--background);
   font-family: Arial, Helvetica, sans-serif;
+}
+.mainLayout {
+  display: flex;
+
+  min-height: 100vh;
+  width: 100%;
+}
+main {
+  @apply flex w-full  items-stretch flex-wrap basis-full;
+  min-height: 100%;
+  background-image: linear-gradient(
+    0deg,
+    #7b6dba 0%,
+    hsl(251deg 26% 49%) 13%,
+    hsl(252deg 26% 40%) 17%,
+    hsl(252deg 25% 32%) 22%,
+    hsl(253deg 23% 24%) 28%,
+    hsl(254deg 21% 17%) 37%,
+    hsl(256deg 17% 10%) 51%,
+    hsl(0deg 0% 0%) 98%
+  );
 }

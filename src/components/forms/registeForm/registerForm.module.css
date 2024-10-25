@@ -1,0 +1,65 @@
+.formContainer {
+  background: rgba(0, 0, 0, 0.2);
+  @apply border-solid border-2 border-white rounded-xl px-6 py-8 flex flex-col items-center;
+  min-width: 330px;
+  width: 100%;
+  max-width: 500px;
+  box-shadow: hsl(0, 0%, 100%) 0px 5px 15px;
+}
+.formContainer > h2 {
+  @apply text-white font-bold;
+}
+
+.labelsContainer {
+  @apply w-full flex flex-col;
+}
+.labelsContainer input::placeholder {
+  color: rgb(163, 163, 163);
+  opacity: 1; /* Firefox */
+}
+.labelsContainer input::-ms-input-placeholder {
+  /* Edge 12 -18 */
+  color: rgb(163, 163, 163);
+}
+.groupLabel {
+  @apply flex flex-wrap sm:justify-center justify-start gap-2;
+}
+.minimalLabel {
+  flex-basis: 220px;
+}
+.habeasDataLabel {
+  align-self: flex-start;
+  @apply my-3;
+}
+.habeasDataLabel span {
+  color: #ffffff;
+  font-weight: bolder;
+}
+.formContainer label > p.error {
+  color: red;
+  font-weight: normal;
+  font-size: small;
+}
+.formContainer label > p {
+  @apply text-white font-bold my-2;
+}
+.btnSend {
+  background: #ffffff;
+  margin: 10px;
+  padding: 10px 25px;
+  text-align: center;
+  text-transform: uppercase;
+  transition: 0.5s;
+  background-size: 200% auto;
+  color: black;
+  font-weight: bolder;
+  box-shadow: 0 0 20px #beb9b9;
+  border-radius: 10px;
+  display: block;
+}
+
+.btnSend:hover {
+  background: hsl(251, 55%, 94%); /* change the direction of the change here */
+  color: black;
+  text-decoration: none;
+}
