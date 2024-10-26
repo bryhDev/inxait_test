@@ -72,7 +72,7 @@ function RegisterScreen() {
           <section className={`${styles.informationContainer}`}>
             <div className={`${styles.codeContainer}`}>
               <p>Tu código de participación es: </p>
-              <Popover open={open} content="copiado">
+              <Popover open={open} content="Copiado">
                 <button
                   className={`${styles.btnCopy}`}
                   onClick={() => {
