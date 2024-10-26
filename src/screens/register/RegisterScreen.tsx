@@ -8,6 +8,7 @@ import { zodResolver } from "@hookform/resolvers/zod";
 import { registerFormSchema } from "@/libs/validations/zod";
 import Image from "next/image";
 import { message } from "antd";
+import Link from "next/link";
 
 function RegisterScreen() {
   const [participationCode, setParticipationCode] = useState("");
@@ -56,24 +57,22 @@ function RegisterScreen() {
           </h2>
           <section className={`${styles.informationContainer}`}>
             <div className={`${styles.codeContainer}`}>
-              <p>
-                Tu código de participación es:{" "}
+              <p>Tu código de participación es: {contextHolder}</p>
+              <button
+                className={`${styles.btnCopy}`}
+                onClick={() => {
+                  navigator.clipboard.writeText(participationCode);
+                  messageApi.success("Código copiado!");
+                }}
+              >
                 <strong>{participationCode}</strong>
-                {contextHolder}
-                <button
-                  onClick={() => {
-                    navigator.clipboard.writeText(participationCode);
-                    messageApi.success("Código copiado!");
-                  }}
-                >
-                  <Image
-                    src={"/copyIcon.svg"}
-                    alt="copy"
-                    width={20}
-                    height={20}
-                  />
-                </button>
-              </p>
+                <Image
+                  src={"/copyIcon.svg"}
+                  alt="copy"
+                  width={20}
+                  height={20}
+                />
+              </button>
             </div>
             <p>
               Este código es tu llave para reclamar tu premio. En caso de ser
@@ -92,6 +91,10 @@ function RegisterScreen() {
             >
               Compartir en Redes Sociales
             </button>
+            <p>o</p>
+            <Link className={`${styles.btnBack}`} href={"register"}>
+              Volver
+            </Link>
           </section>
         </section>
       )}

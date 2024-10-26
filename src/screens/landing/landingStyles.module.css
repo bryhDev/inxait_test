@@ -40,3 +40,6 @@
   color: black;
   text-decoration: none;
 }
+.importanInformation {
+  @apply inline-block;
+}

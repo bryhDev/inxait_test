@@ -33,3 +33,134 @@ main {
     hsl(0deg 0% 0%) 98%
   );
 }
+/* loader */
+.loader {
+  position: fixed;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background: #666;
+  background-image: linear-gradient(
+    0deg,
+    #7b6dba 0%,
+    hsl(251deg 26% 49%) 13%,
+    hsl(252deg 26% 40%) 17%,
+    hsl(252deg 25% 32%) 22%,
+    hsl(253deg 23% 24%) 28%,
+    hsl(254deg 21% 17%) 37%,
+    hsl(256deg 17% 10%) 51%,
+    hsl(0deg 0% 0%) 98%
+  );
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.loader::before,
+.loader::after {
+  content: "";
+  position: absolute;
+  border-radius: 50%;
+  -webkit-animation: tracks 10s linear forwards;
+  animation: tracks 10s linear forwards;
+}
+.loader::before {
+  width: 265px;
+  height: 265px;
+  border: 11px solid rgba(0, 0, 0, 0);
+}
+.loader::after {
+  width: 95px;
+  height: 95px;
+  border: 8px solid rgba(0, 0, 0, 0);
+}
+.car {
+  position: relative;
+  z-index: 1;
+  transform-origin: bottom bottom;
+  -webkit-animation: drift 3.2s linear infinite;
+  animation: drift 3.2s linear infinite;
+}
+.car::before,
+.car::after {
+  content: "";
+  position: absolute;
+  top: 10px;
+  border-radius: 50%;
+}
+.car::before {
+  background: #eee;
+  -webkit-animation: smoke 0.5s linear infinite;
+  animation: smoke 0.5s linear infinite;
+}
+.car::after {
+  background: #eee;
+  -webkit-animation: smoke 0.5s linear 0.7s infinite;
+  animation: smoke 0.5s linear 0.7s infinite;
+}
+svg {
+  position: relative;
+  width: 150px;
+  padding: 0 0 150px;
+  z-index: 1;
+}
+@-webkit-keyframes smoke {
+  from {
+    left: 65px;
+    width: 0px;
+    height: 0px;
+    opacity: 1;
+  }
+  to {
+    left: -10px;
+    width: 40px;
+    height: 40px;
+    opacity: 0;
+  }
+}
+@keyframes smoke {
+  from {
+    left: 65px;
+    width: 0px;
+    height: 0px;
+    opacity: 1;
+  }
+  to {
+    left: -10px;
+    width: 40px;
+    height: 40px;
+    opacity: 0;
+  }
+}
+@-webkit-keyframes drift {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+@keyframes drift {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+@-webkit-keyframes tracks {
+  from {
+    border-color: rgba(0, 0, 0, 0);
+  }
+  to {
+    border-color: #000000;
+  }
+}
+@keyframes tracks {
+  from {
+    border-color: rgba(0, 0, 0, 0);
+  }
+  to {
+    border-color: #000000;
+  }
+}

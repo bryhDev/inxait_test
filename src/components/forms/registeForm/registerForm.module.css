@@ -43,6 +43,10 @@
 .formContainer label > p {
   @apply text-white font-bold my-2;
 }
+.linkTerms {
+  color: violet;
+  font-weight: bold;
+}
 .btnSend {
   background: #ffffff;
   margin: 10px;

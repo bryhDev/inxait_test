@@ -1,0 +1,26 @@
+.container {
+  @apply text-center flex flex-col items-center text-white p-4;
+}
+.container h1 {
+  @apply lg:text-4xl text-2xl font-bold my-3;
+}
+.informationContainer {
+  @apply text-left my-3;
+}
+.informationContainer h2 {
+  color: #8c73fa;
+  @apply font-bold my-2;
+}
+.btnBack {
+  background: #67707a;
+  margin: 10px;
+  padding: 10px 25px;
+  text-align: center;
+  text-transform: uppercase;
+  transition: 0.5s;
+  color: white;
+  font-weight: bolder;
+  box-shadow: 0 0 20px #beb9b9;
+  border-radius: 15px;
+  display: block;
+}

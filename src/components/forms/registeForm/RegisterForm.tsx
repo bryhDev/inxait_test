@@ -12,6 +12,7 @@ import {
   namesValidation,
   numericValidation,
 } from "@/libs/functions/validateInputs";
+import Link from "next/link";
 
 interface IRegisterFormProps {
   useFormRegister: UseFormReturn<TRegisterForm>;
@@ -200,9 +201,12 @@ function RegisterForm({ useFormRegister, changeCode }: IRegisterFormProps) {
           control={control}
           name="habeasData"
           render={({ field }) => (
-            <Checkbox {...field} checked={field.value}>
-              Acepto términos y condiciones
-            </Checkbox>
+            <>
+              <Checkbox {...field} checked={field.value}>
+                Acepto
+              </Checkbox>
+              <Link className={`${styles.linkTerms}`} href={"terms&conditions"}>términos y condiciones</Link>
+            </>
           )}
         />
         {errors.habeasData ? (
