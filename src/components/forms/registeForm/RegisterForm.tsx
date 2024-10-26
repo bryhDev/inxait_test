@@ -169,6 +169,7 @@ function RegisterForm({ useFormRegister, changeCode }: IRegisterFormProps) {
                   showSearch
                   {...field}
                   options={departmentItems}
+                  optionFilterProp="label"
                   optionLabelProp="label"
                   placeholder="Seleccione un departamento"
                 />
@@ -190,6 +191,7 @@ function RegisterForm({ useFormRegister, changeCode }: IRegisterFormProps) {
                   {...field}
                   options={municipalitiesItems}
                   optionLabelProp="label"
+                  optionFilterProp="label"
                   placeholder="Seleccione un municipio"
                 />
               )}
