@@ -92,7 +92,7 @@ function RegisterScreen() {
               Compartir en Redes Sociales
             </button>
             <p>o</p>
-            <Link className={`${styles.btnBack}`} href={"register"}>
+            <Link className={`${styles.btnBack}`} href={"/"}>
               Volver
             </Link>
           </section>
