@@ -165,10 +165,12 @@ function RegisterForm({ useFormRegister, changeCode }: IRegisterFormProps) {
               name="departamento"
               render={({ field }) => (
                 <Select
+                  style={{ width: 220 }}
+                  showSearch
                   {...field}
                   options={departmentItems}
                   optionLabelProp="label"
-                  placeholder="seleccione un departamento"
+                  placeholder="Seleccione un departamento"
                 />
               )}
             />
@@ -183,10 +185,12 @@ function RegisterForm({ useFormRegister, changeCode }: IRegisterFormProps) {
               name="ciudad"
               render={({ field }) => (
                 <Select
+                  showSearch
+                  style={{ width: 220 }}
                   {...field}
                   options={municipalitiesItems}
                   optionLabelProp="label"
-                  placeholder="seleccione un municipio"
+                  placeholder="Seleccione un municipio"
                 />
               )}
             />
@@ -205,7 +209,9 @@ function RegisterForm({ useFormRegister, changeCode }: IRegisterFormProps) {
               <Checkbox {...field} checked={field.value}>
                 Acepto
               </Checkbox>
-              <Link className={`${styles.linkTerms}`} href={"terms&conditions"}>términos y condiciones</Link>
+              <Link className={`${styles.linkTerms}`} href={"terms&conditions"}>
+                términos y condiciones
+              </Link>
             </>
           )}
         />

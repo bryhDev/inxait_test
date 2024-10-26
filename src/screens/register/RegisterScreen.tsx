@@ -1,6 +1,6 @@
 "use client";
 import RegisterForm from "@/components/forms/registeForm/RegisterForm";
-import React, { useState } from "react";
+import React, { useEffect, useState } from "react";
 import styles from "./registerStyles.module.css";
 import { useForm } from "react-hook-form";
 import { TRegisterForm } from "@/types/typesForms";
@@ -24,6 +24,19 @@ function RegisterScreen() {
     },
     resolver: zodResolver(registerFormSchema),
   });
+  useEffect(() => {
+    let errorTimeout = null;
+    if (open) {
+      errorTimeout = setTimeout(() => {
+        setOpen(false);
+      }, 1000);
+    }
+    return () => {
+      if (errorTimeout) {
+        clearTimeout(errorTimeout);
+      }
+    };
+  }, [open]);
 
   const shareOnSocialMedia = () => {
     const shareData = {
