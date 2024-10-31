@@ -7,10 +7,10 @@ interface Props {
 }
 function OrderListItemText({ subtitle, text }: Props) {
   return (
-    <>
+    <li>
       <h2 className={`${styles.subtitle}`}>{subtitle}</h2>
       <p>{text}</p>
-    </>
+    </li>
   );
 }
 

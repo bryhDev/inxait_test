@@ -51,14 +51,15 @@ function TermsConditionsScreen() {
   return (
     <section className={`${styles.container}`}>
       <h1>Términos y Condiciones del Concurso de Bogotá Motors</h1>
-      <ol className={`${styles.informationContainer}`}></ol>
-      {termsAndConditions.map((terms, i) => (
-        <OrderListItemText
-          key={i}
-          subtitle={terms.subtitle}
-          text={terms.text}
-        />
-      ))}
+      <ol className={`${styles.informationContainer}`}>
+        {termsAndConditions.map((terms, i) => (
+          <OrderListItemText
+            key={i}
+            subtitle={terms.subtitle}
+            text={terms.text}
+          />
+        ))}
+      </ol>
       <Link className={`${styles.btnBack}`} href={"register"}>
         Volver
       </Link>
