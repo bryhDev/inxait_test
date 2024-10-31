@@ -1,0 +1,60 @@
+.congratsContainer {
+  animation: reboteIn_down 1s ease;
+  @apply flex flex-col w-full items-center justify-around p-4 text-white;
+}
+.congratsContainer h2 {
+  @apply text-3xl lg:text-4xl text-center font-bold flex;
+}
+.codeContainer {
+  @apply flex gap-2 text-xl text-center items-center flex-wrap justify-center;
+}
+.informationContainer {
+  @apply flex flex-col gap-5 text-center items-center;
+}
+.shareContainer {
+  @apply text-center flex flex-col items-center;
+}
+.btnShare {
+  background: #ffeb4b;
+  margin: 10px;
+  padding: 10px 25px;
+  text-align: center;
+  text-transform: uppercase;
+  transition: 0.5s;
+  color: black;
+  font-weight: bolder;
+  box-shadow: 0 0 20px #beb9b9;
+  border-radius: 15px;
+  display: block;
+}
+.btnBack {
+  background: #67707a;
+  margin: 10px;
+  padding: 10px 25px;
+  text-align: center;
+  text-transform: uppercase;
+  transition: 0.5s;
+  color: white;
+  font-weight: bolder;
+  box-shadow: 0 0 20px #beb9b9;
+  border-radius: 15px;
+  display: block;
+}
+.btnCopy {
+  @apply flex items-center;
+}
+@keyframes reboteIn_down {
+  0% {
+    opacity: 0;
+    transform: translateY(50vh);
+  }
+
+  50% {
+    transform: translateY(-30px);
+    opacity: 1;
+  }
+
+  70% {
+    transform: translateY(10px);
+  }
+}

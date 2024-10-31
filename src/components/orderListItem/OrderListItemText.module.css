@@ -1,0 +1,4 @@
+.subtitle {
+  color: #8c73fa;
+  @apply font-bold my-2;
+}

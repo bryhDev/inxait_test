@@ -1,8 +1,23 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
-## Getting Started
+## Pagina para prueba de inxait
 
-First, run the development server:
+el proyecto se puede almacenar en un docker usando el comando
+
+```bash
+ docker build -t inxait-test .
+```
+
+O puede usar
+
+```bash
+npm i --force
+# or
+yarn install
+
+```
+
+Y después
 
 ```bash
 npm run dev
@@ -14,23 +29,27 @@ pnpm dev
 bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Para usar el modo desarrollador
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Aplicación y uso
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+Esta aplicación se creo con el fin de mostrar conocimientos sobre desarrollo web y Nextjs.
 
-## Learn More
+Es un ejemplo de un landing para un concurso de una empresa de autos, para la practica el nombre de la empresa es "Bogota motors",
+hace uso que artificialmente simula la obtención de información de un usuario.
 
-To learn more about Next.js, take a look at the following resources:
+## Enunciado
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Una compañía importante de automóviles va a realizar un sitio promocional para recolección de datos de clientes actuales de la marca en Bogotá. El concurso consiste en que el usuario se registre en una Landing page y al completar su registro se le deberá crear un código alfanumérico para participar en un sorteo.
+Características funcionales:
+● Nombre: Campo alfabético, restringido a otros caracteres (Dato Obligatorio)
+● Apellido: Campo alfabético, restringido a otros caracteres (Dato Obligatorio)
+● Cédula: Campo numérico, restringido a otros caracteres (Dato Obligatorio)
+● Departamento (Obligatorio): Menú desplegable con la lista de departamentos de Colombia
+● Ciudad (Obligatorio): Menú desplegable dependiente del departamento anteriormente elegido
+● Celular: Campo numérico, restringido a otros caracteres (Dato Obligatorio)
+● Correo Electrónico: Campo alfanumérico restringido a otros caracteres (Obligatorio el @)
+● Campo Habeas Data (“Autorizo el tratamiento de mis datos de acuerdo con la finalidad establecida en la política de protección de datos personales”. Haga clic aquí)
+● Debe contar con mínimo 2 visuales (formulario de captura de datos, registro completado con código generado)
+● No es necesario que se almacenen los datos.
+● Se debe entregar con un docker compose configurado para poder levantar el proyecto.
