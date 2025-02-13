@@ -14,7 +14,7 @@ const montserratBold = Montserrat({
 function LandingScreen() {
   return (
     <section className={`${styles.container}`}>
-      <h1>¡Participa y Gana con Bogotá Motors y Mark!</h1>
+      <h1>¡Participa y Gana con Bogotá Motors y Tony</h1>
 
       <article className={`${styles.information}`}>
         <h3>Únete al sorteo exclusivo y gana increíbles premios</h3>
